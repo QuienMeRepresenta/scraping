@@ -1,0 +1,30 @@
+const { promises: Fs } = require('fs')
+const entidades = require('../../entidades')
+
+/**
+ *
+ * @param {diputado[]} diputados Lista de diputados
+ */
+async function writeSqlToDisk(diputados, sqlFilePath) {
+  const sql = diputados
+    .map((d) => {
+      const { numero, nombre } = entidades.find((e) => e.nombre === 'NUEVO LEON')
+      const puesto = `Diputación Local ${nombre} por Distrito ${d.distritoLocal}`
+      const estadoId = numero
+
+      return `insert into actores_politicos (nombre, puesto, img_url, created_at) values ('${d.nombre}', '${puesto}', '${d.imgUrl}', '2021-05-07 13:00:00') ON CONFLICT (nombre_formatted, puesto) DO UPDATE SET img_url = EXCLUDED.img_url;
+insert into diputacion_local(actor_politico_id, periodo, distrito_local, estado, link) select id, '[2018-10-01,2021-12-01)'::daterange, ${d.distritoLocal}, ${estadoId}, '${d.link}' from actores_politicos where nombre_formatted = lower(unaccent('${d.nombre}')) and puesto = '${puesto}' ON CONFLICT  DO NOTHING;`
+    })
+    .join('\n')
+  const finalFile = `exports.seed = async function (knex) {
+  await knex('diputacion_local').del()
+  await knex.schema.raw(\`
+  ${sql}
+  \`)
+}
+`
+  await Fs.writeFile(sqlFilePath, finalFile)
+  console.log('escribi archivo sql en ', sqlFilePath)
+}
+
+module.exports = writeSqlToDisk
