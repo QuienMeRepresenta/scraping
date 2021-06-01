@@ -1,5 +1,4 @@
 exports.seed = async function (knex) {
-  await knex('diputacion_local').del()
   await knex.schema.raw(`
   insert into actores_politicos (nombre, puesto, img_url, created_at) values ('José Salvador Urzúa Solís', 'Diputación Local Sonora por Distrito 1', 'https://res.cloudinary.com/quienmerepresenta/image/upload/v1620359610/diputacion_local/sonora/legislatura_lxii/jos%C3%A9_salvador_urz%C3%BAa_sol%C3%ADs.jpg', '2021-05-02 13:00:00') ON CONFLICT (nombre_formatted, puesto) DO UPDATE SET img_url = EXCLUDED.img_url;
 insert into diputacion_local(actor_politico_id, periodo, distrito_local, estado, link) select id, '[2018-12-01,2021-12-02)'::daterange, 1, 26, 'http://www.congresoson.gob.mx/Legislatura/DiputadoPreview\\?id=256' from actores_politicos where nombre_formatted = lower(unaccent('José Salvador Urzúa Solís')) and puesto = 'Diputación Local Sonora por Distrito 1' ON CONFLICT  DO NOTHING;

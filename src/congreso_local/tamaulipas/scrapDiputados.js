@@ -59,7 +59,6 @@ async function scrapDiputados(baseUrl, $) {
     const path = $(this)
       .find('tr:nth-child(2) > td:nth-child(2) > #menu > ul > li:nth-child(1) > a')
       .attr('href')
-      .replace('?', '\\\\?')
 
     const link = `${baseUrl}/AsambleaLegislativa/IntegrantesPleno/${path}`
 
@@ -88,11 +87,13 @@ async function scrapDiputados(baseUrl, $) {
       overwrite: false,
     })
 
+    const finalLink = link.link.replace('?', '\\\\?')
+
     return {
       nombre: nombre,
       distritoLocal: link.distrito,
       imgUrl: secure_url,
-      link: link.link,
+      link: finalLink,
     }
   })
 
