@@ -24,22 +24,24 @@ const scrapSenadores = async (baseUrl, directorioPath) => {
 
     const html = await htmlFor(url, filePath)
     const $ = cheerio.load(html)
-    const senadoresDiv = $('.panel-body')
+    const senadoresDiv = $('.panel')
 
     senadoresDiv.each(function () {
-      const imgUrl = $(this).find('div > a > img').attr('src')
+      const imgUrl = $(this).find('.panel-heading > a > img').attr('src')
+
       const nombre = $(this)
-        .find('h3 > strong > a')
-        .text()
+        .find('.panel-body a')
+        .html()
+        .replace('<br>', ' ')
         .replace(/^Sen. /, '')
-      const urlPath = $(this).find('h3 > strong > a').attr('href')
-      const desc = $(this).find('div > p').text().trim()
+
+      const urlPath = $(this).find('.panel-heading a').attr('href')
+
       const link = `${baseUrl}${urlPath}`
       const senadoImgUrl = `${baseUrl}${imgUrl}`
       result.push({
         nombre,
         senadoImgUrl,
-        desc,
         link,
         legislatura: 'lxiv',
         nombreEntidad: entidad.nombre,
