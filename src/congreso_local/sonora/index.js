@@ -5,7 +5,7 @@ const writeSqlToDisk = require('./writeSqlToDisk')
 
 async function main() {
   const baseUrl = 'http://www.congresoson.gob.mx'
-  const directorioUrl = `${baseUrl}/Legislatura/Diputados`
+  const directorioUrl = `${baseUrl}/Legislatura/LegislaturaActual`
   const directorioHtmlPath = `${process.cwd()}/src/congreso_local/sonora/directorio.html`
   const sqlFilePath = `${process.cwd()}/src/congreso_local/sonora/sql.txt`
 

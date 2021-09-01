@@ -21,15 +21,15 @@ async function scrapDiputados(baseUrl, $) {
 
     if (
       cabecera === 'Diputado de Representación Proporcional' ||
-      cabecera === 'Diputada de Representación Proporcional'
+      cabecera === 'Diputada de Representación Proporcional' ||
+      cabecera === 'Estado de Sonora'
     ) {
       //TODO: Diputados plurinominales
       return
     }
 
-    const distritoLocal = cabecera.split('.')[0]
-    const imgPath = $(this).find('.al').attr('src')
-    const congresoImgUrl = `${baseUrl}${imgPath}`
+    const distritoLocal = cabecera.split(' ')[1]
+    const congresoImgUrl = $(this).find('img').attr('src')
 
     diputados.push({
       nombre: nombre.trim(),
