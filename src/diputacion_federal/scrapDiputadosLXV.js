@@ -4,7 +4,7 @@ const entidades = require('../entidades')
 const htmlFor = require('../htmlFor')
 
 async function scrapDiputados(baseUrl) {
-  const legislatura = 'LXIV'
+  const legislatura = 'LXV'
 
   const linksPorEntidad = entidades.map((e) => {
     return {
@@ -30,7 +30,7 @@ async function scrapDiputados(baseUrl) {
       if (href.startsWith('curricula.php')) {
         const split = href.split('=')
         linksDiputados.push({
-          link: `${baseUrl}/LXIV_leg/${href}`,
+          link: `${baseUrl}/${legislatura}_leg/${href}`,
           entidad: nombre,
           numeroEntidad: numero,
           id: split[1],
@@ -46,34 +46,47 @@ async function scrapDiputados(baseUrl) {
 
     const diputadoHtml = await htmlFor(link, filePath, 'latin1')
     const $diputadoHtml = cheerio.load(diputadoHtml)
+    const $informacionDiputado = $diputadoHtml(
+      'body > table > tbody > tr:nth-child(3) > td > table > tbody > tr > td:nth-child(3) > table > tbody',
+    )
+
     const nombre = $diputadoHtml(
-      'body > div > table.cajasombra > tbody > tr > td > table > tbody > tr > td:nth-child(3) > table > tbody > tr:nth-child(1) > td > center > strong',
+      'body > table > tbody > tr:nth-child(3) > td > table > tbody > tr > td:nth-child(3) > table > tbody > tr > td > font > strong',
     )
       .text()
       .replace('Dip. ', '')
       .trim()
-    const entidadHtml = $diputadoHtml(
-      'body > div > table.cajasombra > tbody > tr > td > table > tbody > tr > td:nth-child(3) > table > tbody > tr:nth-child(3) > td:nth-child(2)',
-    )
+
+    const tipoDeEleccion = $informacionDiputado
+      .find('tr:nth-child(2) > td:nth-child(2)')
       .text()
       .trim()
       .replace(/\n/g, '')
-      .split(':')
+
+    if (tipoDeEleccion === 'Representación proporcional') {
+      //TODO: Plurinominales
+      return null
+    }
+
+    const distritoTxt = $informacionDiputado
+      .find('tr:nth-child(3) > td:nth-child(2)')
+      .text()
+      .trim()
+      .replace(/\n/g, '')
+      .split('|')[1]
+      .split('Distrito:')[1]
+      .trim()
+      .replace(/\n/g, '')
+    const distrito = parseInt(distritoTxt, 10)
+
     const imgPath = $diputadoHtml(
-      'body > div > table.cajasombra > tbody > tr > td > table > tbody > tr > td:nth-child(1) > img',
+      'body > table > tbody > tr:nth-child(3) > td > table > tbody > tr > td:nth-child(1) > img',
     )
       .attr('src')
       .replace('.', '') //replace first dot
 
     const imgUrl = `${baseUrl}/${legislatura}_leg${imgPath}`
     const replacedLink = link.replace('?', '\\\\?') //This is a hack to avoid parameter replacement in knex.schema.raw inserts
-
-    if (!entidadHtml[0].toLowerCase().endsWith('distrito')) {
-      //TODO: Plurinominales
-      return null
-    }
-
-    const distrito = parseInt(entidadHtml[1].split('|')[0].trim(), 10)
 
     return {
       nombre,

@@ -1,4 +1,4 @@
-const scrapDiputados = require('./scrapDiputados')
+const scrapDiputados = require('./scrapDiputadosLXV')
 const uploadToCloudinary = require('./uploadToCloudinary')
 const writeSqlToDisk = require('./writeSqlToDisk')
 
