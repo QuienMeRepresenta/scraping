@@ -8,7 +8,7 @@ async function main() {
   const sqlFilePath = `${__dirname}/sql.txt`
   const gubernaturas = await scrapGubernatura(baseUrl, directorioPath)
 
-  // const withCloudinaryUrl = await uploadToCloudinary(senadores)
+  // const withCloudinaryUrl = await uploadToCloudinary(gubernaturas)
   await writeSqlToDisk(gubernaturas, sqlFilePath)
 }
 
