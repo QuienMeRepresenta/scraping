@@ -1,0 +1,46 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "AGUASCALIENTES"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "ASIENTOS"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "CALVILLO"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "COSIO"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "JESUS MARIA"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "PABELLON DE ARTEAGA"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "RINCON DE ROMOS"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "SAN JOSE DE GRACIA"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "TEPEZALA"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "SAN FRANCISCO DE LOS ROMO"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "EL LLANO"
+  }
+]

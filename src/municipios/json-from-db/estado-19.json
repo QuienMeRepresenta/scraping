@@ -1,0 +1,206 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "ABASOLO"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "AGUALEGUAS"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "ALLENDE"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "ANAHUAC"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "APODACA"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "ARAMBERRI"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "BUSTAMANTE"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "CADEREYTA JIMENEZ"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "EL CARMEN"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "CERRALVO"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "CHINA"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "CIENEGA DE FLORES"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "DOCTOR ARROYO"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "DOCTOR COSS"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "DOCTOR GONZALEZ"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "GALEANA"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "GARCIA"
+  },
+  {
+    "numero_municipio": 20,
+    "nombre": "GENERAL BRAVO"
+  },
+  {
+    "numero_municipio": 21,
+    "nombre": "GENERAL ESCOBEDO"
+  },
+  {
+    "numero_municipio": 22,
+    "nombre": "GENERAL TERAN"
+  },
+  {
+    "numero_municipio": 23,
+    "nombre": "GENERAL TREVINO"
+  },
+  {
+    "numero_municipio": 24,
+    "nombre": "GENERAL ZARAGOZA"
+  },
+  {
+    "numero_municipio": 25,
+    "nombre": "GENERAL ZUAZUA"
+  },
+  {
+    "numero_municipio": 26,
+    "nombre": "GUADALUPE"
+  },
+  {
+    "numero_municipio": 28,
+    "nombre": "HIDALGO"
+  },
+  {
+    "numero_municipio": 29,
+    "nombre": "HIGUERAS"
+  },
+  {
+    "numero_municipio": 30,
+    "nombre": "HUALAHUISES"
+  },
+  {
+    "numero_municipio": 31,
+    "nombre": "ITURBIDE"
+  },
+  {
+    "numero_municipio": 32,
+    "nombre": "JUAREZ"
+  },
+  {
+    "numero_municipio": 33,
+    "nombre": "LAMPAZOS DE NARANJO"
+  },
+  {
+    "numero_municipio": 34,
+    "nombre": "LINARES"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "LOS ALDAMAS"
+  },
+  {
+    "numero_municipio": 27,
+    "nombre": "LOS HERRERAS"
+  },
+  {
+    "numero_municipio": 43,
+    "nombre": "LOS RAMONES"
+  },
+  {
+    "numero_municipio": 35,
+    "nombre": "MARIN"
+  },
+  {
+    "numero_municipio": 36,
+    "nombre": "MELCHOR OCAMPO"
+  },
+  {
+    "numero_municipio": 37,
+    "nombre": "MIER Y NORIEGA"
+  },
+  {
+    "numero_municipio": 38,
+    "nombre": "MINA"
+  },
+  {
+    "numero_municipio": 39,
+    "nombre": "MONTEMORELOS"
+  },
+  {
+    "numero_municipio": 40,
+    "nombre": "MONTERREY"
+  },
+  {
+    "numero_municipio": 41,
+    "nombre": "PARAS"
+  },
+  {
+    "numero_municipio": 42,
+    "nombre": "PESQUERIA"
+  },
+  {
+    "numero_municipio": 44,
+    "nombre": "RAYONES"
+  },
+  {
+    "numero_municipio": 45,
+    "nombre": "SABINAS HIDALGO"
+  },
+  {
+    "numero_municipio": 46,
+    "nombre": "SALINAS VICTORIA"
+  },
+  {
+    "numero_municipio": 47,
+    "nombre": "SAN NICOLAS DE LOS GARZA"
+  },
+  {
+    "numero_municipio": 19,
+    "nombre": "SAN PEDRO GARZA GARCIA"
+  },
+  {
+    "numero_municipio": 48,
+    "nombre": "SANTA CATARINA"
+  },
+  {
+    "numero_municipio": 49,
+    "nombre": "SANTIAGO"
+  },
+  {
+    "numero_municipio": 50,
+    "nombre": "VALLECILLO"
+  },
+  {
+    "numero_municipio": 51,
+    "nombre": "VILLALDAMA"
+  }
+]

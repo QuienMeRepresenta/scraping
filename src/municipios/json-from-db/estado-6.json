@@ -1,0 +1,42 @@
+[
+  {
+    "numero_municipio": 6,
+    "nombre": "ARMERIA"
+  },
+  {
+    "numero_municipio": 1,
+    "nombre": "COLIMA"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "COMALA"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "COQUIMATLAN"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "CUAUHTEMOC"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "IXTLAHUACAN"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "MANZANILLO"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "MINATITLAN"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "TECOMAN"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "VILLA DE ALVAREZ"
+  }
+]

@@ -1,0 +1,850 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "ACAJETE"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "ACATLAN"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "ACAYUCAN"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "ACTOPAN"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "ACULA"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "ACULTZINGO"
+  },
+  {
+    "numero_municipio": 206,
+    "nombre": "AGUA DULCE"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "ALAMO TEMAPACHE"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "ALPATLAHUAC"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "ALTO LUCERO DE GUTIERREZ BARRIOS"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "ALTOTONGA"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "ALVARADO"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "AMATITLAN"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "AMATLAN DE LOS REYES"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "ANGEL R. CABADA"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "APAZAPAN"
+  },
+  {
+    "numero_municipio": 19,
+    "nombre": "AQUILA"
+  },
+  {
+    "numero_municipio": 20,
+    "nombre": "ASTACINGA"
+  },
+  {
+    "numero_municipio": 21,
+    "nombre": "ATLAHUILCO"
+  },
+  {
+    "numero_municipio": 22,
+    "nombre": "ATOYAC"
+  },
+  {
+    "numero_municipio": 23,
+    "nombre": "ATZACAN"
+  },
+  {
+    "numero_municipio": 24,
+    "nombre": "ATZALAN"
+  },
+  {
+    "numero_municipio": 26,
+    "nombre": "AYAHUALULCO"
+  },
+  {
+    "numero_municipio": 27,
+    "nombre": "BANDERILLA"
+  },
+  {
+    "numero_municipio": 28,
+    "nombre": "BENITO JUAREZ"
+  },
+  {
+    "numero_municipio": 29,
+    "nombre": "BOCA DEL RIO"
+  },
+  {
+    "numero_municipio": 30,
+    "nombre": "CALCAHUALCO"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "CAMARON DE TEJEDA"
+  },
+  {
+    "numero_municipio": 31,
+    "nombre": "CAMERINO Z. MENDOZA"
+  },
+  {
+    "numero_municipio": 208,
+    "nombre": "CARLOS A. CARRILLO"
+  },
+  {
+    "numero_municipio": 32,
+    "nombre": "CARRILLO PUERTO"
+  },
+  {
+    "numero_municipio": 33,
+    "nombre": "CASTILLO DE TEAYO"
+  },
+  {
+    "numero_municipio": 34,
+    "nombre": "CATEMACO"
+  },
+  {
+    "numero_municipio": 35,
+    "nombre": "CAZONES DE HERRERA"
+  },
+  {
+    "numero_municipio": 36,
+    "nombre": "CERRO AZUL"
+  },
+  {
+    "numero_municipio": 56,
+    "nombre": "CHACALTIANGUIS"
+  },
+  {
+    "numero_municipio": 57,
+    "nombre": "CHALMA"
+  },
+  {
+    "numero_municipio": 58,
+    "nombre": "CHICONAMEL"
+  },
+  {
+    "numero_municipio": 59,
+    "nombre": "CHICONQUIACO"
+  },
+  {
+    "numero_municipio": 60,
+    "nombre": "CHICONTEPEC"
+  },
+  {
+    "numero_municipio": 61,
+    "nombre": "CHINAMECA"
+  },
+  {
+    "numero_municipio": 62,
+    "nombre": "CHINAMPA DE GOROSTIZA"
+  },
+  {
+    "numero_municipio": 64,
+    "nombre": "CHOCAMAN"
+  },
+  {
+    "numero_municipio": 65,
+    "nombre": "CHONTLA"
+  },
+  {
+    "numero_municipio": 66,
+    "nombre": "CHUMATLAN"
+  },
+  {
+    "numero_municipio": 37,
+    "nombre": "CITLALTEPETL"
+  },
+  {
+    "numero_municipio": 38,
+    "nombre": "COACOATZINTLA"
+  },
+  {
+    "numero_municipio": 39,
+    "nombre": "COAHUITLAN"
+  },
+  {
+    "numero_municipio": 40,
+    "nombre": "COATEPEC"
+  },
+  {
+    "numero_municipio": 41,
+    "nombre": "COATZACOALCOS"
+  },
+  {
+    "numero_municipio": 42,
+    "nombre": "COATZINTLA"
+  },
+  {
+    "numero_municipio": 43,
+    "nombre": "COETZALA"
+  },
+  {
+    "numero_municipio": 44,
+    "nombre": "COLIPA"
+  },
+  {
+    "numero_municipio": 45,
+    "nombre": "COMAPA"
+  },
+  {
+    "numero_municipio": 46,
+    "nombre": "CORDOBA"
+  },
+  {
+    "numero_municipio": 47,
+    "nombre": "COSAMALOAPAN DE CARPIO"
+  },
+  {
+    "numero_municipio": 48,
+    "nombre": "COSAUTLAN DE CARVAJAL"
+  },
+  {
+    "numero_municipio": 49,
+    "nombre": "COSCOMATEPEC"
+  },
+  {
+    "numero_municipio": 50,
+    "nombre": "COSOLEACAQUE"
+  },
+  {
+    "numero_municipio": 51,
+    "nombre": "COTAXTLA"
+  },
+  {
+    "numero_municipio": 52,
+    "nombre": "COXQUIHUI"
+  },
+  {
+    "numero_municipio": 53,
+    "nombre": "COYUTLA"
+  },
+  {
+    "numero_municipio": 54,
+    "nombre": "CUICHAPA"
+  },
+  {
+    "numero_municipio": 55,
+    "nombre": "CUITLAHUAC"
+  },
+  {
+    "numero_municipio": 207,
+    "nombre": "EL HIGO"
+  },
+  {
+    "numero_municipio": 67,
+    "nombre": "EMILIANO ZAPATA"
+  },
+  {
+    "numero_municipio": 68,
+    "nombre": "ESPINAL"
+  },
+  {
+    "numero_municipio": 69,
+    "nombre": "FILOMENO MATA"
+  },
+  {
+    "numero_municipio": 70,
+    "nombre": "FORTIN"
+  },
+  {
+    "numero_municipio": 71,
+    "nombre": "GUTIERREZ ZAMORA"
+  },
+  {
+    "numero_municipio": 72,
+    "nombre": "HIDALGOTITLAN"
+  },
+  {
+    "numero_municipio": 73,
+    "nombre": "HUATUSCO"
+  },
+  {
+    "numero_municipio": 74,
+    "nombre": "HUAYACOCOTLA"
+  },
+  {
+    "numero_municipio": 75,
+    "nombre": "HUEYAPAN DE OCAMPO"
+  },
+  {
+    "numero_municipio": 76,
+    "nombre": "HUILOAPAN DE CUAUHTEMOC"
+  },
+  {
+    "numero_municipio": 77,
+    "nombre": "IGNACIO DE LA LLAVE"
+  },
+  {
+    "numero_municipio": 78,
+    "nombre": "ILAMATLAN"
+  },
+  {
+    "numero_municipio": 79,
+    "nombre": "ISLA"
+  },
+  {
+    "numero_municipio": 80,
+    "nombre": "IXCATEPEC"
+  },
+  {
+    "numero_municipio": 81,
+    "nombre": "IXHUACAN DE LOS REYES"
+  },
+  {
+    "numero_municipio": 85,
+    "nombre": "IXHUATLANCILLO"
+  },
+  {
+    "numero_municipio": 83,
+    "nombre": "IXHUATLAN DEL CAFE"
+  },
+  {
+    "numero_municipio": 84,
+    "nombre": "IXHUATLAN DEL SURESTE"
+  },
+  {
+    "numero_municipio": 82,
+    "nombre": "IXHUATLAN DE MADERO"
+  },
+  {
+    "numero_municipio": 86,
+    "nombre": "IXMATLAHUACAN"
+  },
+  {
+    "numero_municipio": 87,
+    "nombre": "IXTACZOQUITLAN"
+  },
+  {
+    "numero_municipio": 88,
+    "nombre": "JALACINGO"
+  },
+  {
+    "numero_municipio": 90,
+    "nombre": "JALCOMULCO"
+  },
+  {
+    "numero_municipio": 91,
+    "nombre": "JALTIPAN"
+  },
+  {
+    "numero_municipio": 92,
+    "nombre": "JAMAPA"
+  },
+  {
+    "numero_municipio": 93,
+    "nombre": "JESUS CARRANZA"
+  },
+  {
+    "numero_municipio": 94,
+    "nombre": "JILOTEPEC"
+  },
+  {
+    "numero_municipio": 168,
+    "nombre": "JOSE AZUETA"
+  },
+  {
+    "numero_municipio": 95,
+    "nombre": "JUAN RODRIGUEZ CLARA"
+  },
+  {
+    "numero_municipio": 96,
+    "nombre": "JUCHIQUE DE FERRER"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "LA ANTIGUA"
+  },
+  {
+    "numero_municipio": 97,
+    "nombre": "LANDERO Y COSS"
+  },
+  {
+    "numero_municipio": 128,
+    "nombre": "LA PERLA"
+  },
+  {
+    "numero_municipio": 63,
+    "nombre": "LAS CHOAPAS"
+  },
+  {
+    "numero_municipio": 108,
+    "nombre": "LAS MINAS"
+  },
+  {
+    "numero_municipio": 137,
+    "nombre": "LAS VIGAS DE RAMIREZ"
+  },
+  {
+    "numero_municipio": 98,
+    "nombre": "LERDO DE TEJADA"
+  },
+  {
+    "numero_municipio": 138,
+    "nombre": "LOS REYES"
+  },
+  {
+    "numero_municipio": 99,
+    "nombre": "MAGDALENA"
+  },
+  {
+    "numero_municipio": 100,
+    "nombre": "MALTRATA"
+  },
+  {
+    "numero_municipio": 101,
+    "nombre": "MANLIO FABIO ALTAMIRANO"
+  },
+  {
+    "numero_municipio": 102,
+    "nombre": "MARIANO ESCOBEDO"
+  },
+  {
+    "numero_municipio": 103,
+    "nombre": "MARTINEZ DE LA TORRE"
+  },
+  {
+    "numero_municipio": 104,
+    "nombre": "MECATLAN"
+  },
+  {
+    "numero_municipio": 105,
+    "nombre": "MECAYAPAN"
+  },
+  {
+    "numero_municipio": 106,
+    "nombre": "MEDELLIN DE BRAVO"
+  },
+  {
+    "numero_municipio": 107,
+    "nombre": "MIAHUATLAN"
+  },
+  {
+    "numero_municipio": 109,
+    "nombre": "MINATITLAN"
+  },
+  {
+    "numero_municipio": 110,
+    "nombre": "MISANTLA"
+  },
+  {
+    "numero_municipio": 111,
+    "nombre": "MIXTLA DE ALTAMIRANO"
+  },
+  {
+    "numero_municipio": 112,
+    "nombre": "MOLOACAN"
+  },
+  {
+    "numero_municipio": 205,
+    "nombre": "NANCHITAL DE LAZARO CARDENAS DEL RIO"
+  },
+  {
+    "numero_municipio": 113,
+    "nombre": "NAOLINCO"
+  },
+  {
+    "numero_municipio": 114,
+    "nombre": "NARANJAL"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "NARANJOS AMATLAN"
+  },
+  {
+    "numero_municipio": 115,
+    "nombre": "NAUTLA"
+  },
+  {
+    "numero_municipio": 116,
+    "nombre": "NOGALES"
+  },
+  {
+    "numero_municipio": 117,
+    "nombre": "OLUTA"
+  },
+  {
+    "numero_municipio": 118,
+    "nombre": "OMEALCA"
+  },
+  {
+    "numero_municipio": 119,
+    "nombre": "ORIZABA"
+  },
+  {
+    "numero_municipio": 120,
+    "nombre": "OTATITLAN"
+  },
+  {
+    "numero_municipio": 121,
+    "nombre": "OTEAPAN"
+  },
+  {
+    "numero_municipio": 122,
+    "nombre": "OZULUAMA DE MASCARENAS"
+  },
+  {
+    "numero_municipio": 123,
+    "nombre": "PAJAPAN"
+  },
+  {
+    "numero_municipio": 124,
+    "nombre": "PANUCO"
+  },
+  {
+    "numero_municipio": 125,
+    "nombre": "PAPANTLA"
+  },
+  {
+    "numero_municipio": 126,
+    "nombre": "PASO DEL MACHO"
+  },
+  {
+    "numero_municipio": 127,
+    "nombre": "PASO DE OVEJAS"
+  },
+  {
+    "numero_municipio": 129,
+    "nombre": "PEROTE"
+  },
+  {
+    "numero_municipio": 130,
+    "nombre": "PLATON SANCHEZ"
+  },
+  {
+    "numero_municipio": 131,
+    "nombre": "PLAYA VICENTE"
+  },
+  {
+    "numero_municipio": 132,
+    "nombre": "POZA RICA DE HIDALGO"
+  },
+  {
+    "numero_municipio": 133,
+    "nombre": "PUEBLO VIEJO"
+  },
+  {
+    "numero_municipio": 134,
+    "nombre": "PUENTE NACIONAL"
+  },
+  {
+    "numero_municipio": 135,
+    "nombre": "RAFAEL DELGADO"
+  },
+  {
+    "numero_municipio": 136,
+    "nombre": "RAFAEL LUCIO"
+  },
+  {
+    "numero_municipio": 139,
+    "nombre": "RIO BLANCO"
+  },
+  {
+    "numero_municipio": 140,
+    "nombre": "SALTABARRANCA"
+  },
+  {
+    "numero_municipio": 141,
+    "nombre": "SAN ANDRES TENEJAPAN"
+  },
+  {
+    "numero_municipio": 142,
+    "nombre": "SAN ANDRES TUXTLA"
+  },
+  {
+    "numero_municipio": 143,
+    "nombre": "SAN JUAN EVANGELISTA"
+  },
+  {
+    "numero_municipio": 211,
+    "nombre": "SAN RAFAEL"
+  },
+  {
+    "numero_municipio": 212,
+    "nombre": "SANTIAGO SOCHIAPAN"
+  },
+  {
+    "numero_municipio": 144,
+    "nombre": "SANTIAGO TUXTLA"
+  },
+  {
+    "numero_municipio": 145,
+    "nombre": "SAYULA DE ALEMAN"
+  },
+  {
+    "numero_municipio": 147,
+    "nombre": "SOCHIAPA"
+  },
+  {
+    "numero_municipio": 146,
+    "nombre": "SOCONUSCO"
+  },
+  {
+    "numero_municipio": 148,
+    "nombre": "SOLEDAD ATZOMPA"
+  },
+  {
+    "numero_municipio": 149,
+    "nombre": "SOLEDAD DE DOBLADO"
+  },
+  {
+    "numero_municipio": 150,
+    "nombre": "SOTEAPAN"
+  },
+  {
+    "numero_municipio": 151,
+    "nombre": "TAMALIN"
+  },
+  {
+    "numero_municipio": 152,
+    "nombre": "TAMIAHUA"
+  },
+  {
+    "numero_municipio": 153,
+    "nombre": "TAMPICO ALTO"
+  },
+  {
+    "numero_municipio": 154,
+    "nombre": "TANCOCO"
+  },
+  {
+    "numero_municipio": 155,
+    "nombre": "TANTIMA"
+  },
+  {
+    "numero_municipio": 156,
+    "nombre": "TANTOYUCA"
+  },
+  {
+    "numero_municipio": 210,
+    "nombre": "TATAHUICAPAN DE JUAREZ"
+  },
+  {
+    "numero_municipio": 157,
+    "nombre": "TATATILA"
+  },
+  {
+    "numero_municipio": 158,
+    "nombre": "TECOLUTLA"
+  },
+  {
+    "numero_municipio": 159,
+    "nombre": "TEHUIPANGO"
+  },
+  {
+    "numero_municipio": 160,
+    "nombre": "TEMPOAL"
+  },
+  {
+    "numero_municipio": 161,
+    "nombre": "TENAMPA"
+  },
+  {
+    "numero_municipio": 162,
+    "nombre": "TENOCHTITLAN"
+  },
+  {
+    "numero_municipio": 163,
+    "nombre": "TEOCELO"
+  },
+  {
+    "numero_municipio": 164,
+    "nombre": "TEPATLAXCO"
+  },
+  {
+    "numero_municipio": 165,
+    "nombre": "TEPETLAN"
+  },
+  {
+    "numero_municipio": 166,
+    "nombre": "TEPETZINTLA"
+  },
+  {
+    "numero_municipio": 167,
+    "nombre": "TEQUILA"
+  },
+  {
+    "numero_municipio": 169,
+    "nombre": "TEXCATEPEC"
+  },
+  {
+    "numero_municipio": 170,
+    "nombre": "TEXHUACAN"
+  },
+  {
+    "numero_municipio": 171,
+    "nombre": "TEXISTEPEC"
+  },
+  {
+    "numero_municipio": 172,
+    "nombre": "TEZONAPA"
+  },
+  {
+    "numero_municipio": 173,
+    "nombre": "TIERRA BLANCA"
+  },
+  {
+    "numero_municipio": 174,
+    "nombre": "TIHUATLAN"
+  },
+  {
+    "numero_municipio": 179,
+    "nombre": "TLACHICHILCO"
+  },
+  {
+    "numero_municipio": 175,
+    "nombre": "TLACOJALPAN"
+  },
+  {
+    "numero_municipio": 176,
+    "nombre": "TLACOLULAN"
+  },
+  {
+    "numero_municipio": 177,
+    "nombre": "TLACOTALPAN"
+  },
+  {
+    "numero_municipio": 178,
+    "nombre": "TLACOTEPEC DE MEJIA"
+  },
+  {
+    "numero_municipio": 180,
+    "nombre": "TLALIXCOYAN"
+  },
+  {
+    "numero_municipio": 181,
+    "nombre": "TLALNELHUAYOCAN"
+  },
+  {
+    "numero_municipio": 25,
+    "nombre": "TLALTETELA"
+  },
+  {
+    "numero_municipio": 182,
+    "nombre": "TLAPACOYAN"
+  },
+  {
+    "numero_municipio": 183,
+    "nombre": "TLAQUILPA"
+  },
+  {
+    "numero_municipio": 184,
+    "nombre": "TLILAPAN"
+  },
+  {
+    "numero_municipio": 185,
+    "nombre": "TOMATLAN"
+  },
+  {
+    "numero_municipio": 186,
+    "nombre": "TONAYAN"
+  },
+  {
+    "numero_municipio": 187,
+    "nombre": "TOTUTLA"
+  },
+  {
+    "numero_municipio": 204,
+    "nombre": "TRES VALLES"
+  },
+  {
+    "numero_municipio": 188,
+    "nombre": "TUXPAN"
+  },
+  {
+    "numero_municipio": 189,
+    "nombre": "TUXTILLA"
+  },
+  {
+    "numero_municipio": 190,
+    "nombre": "URSULO GALVAN"
+  },
+  {
+    "numero_municipio": 209,
+    "nombre": "UXPANAPA"
+  },
+  {
+    "numero_municipio": 191,
+    "nombre": "VEGA DE ALATORRE"
+  },
+  {
+    "numero_municipio": 192,
+    "nombre": "VERACRUZ"
+  },
+  {
+    "numero_municipio": 193,
+    "nombre": "VILLA ALDAMA"
+  },
+  {
+    "numero_municipio": 89,
+    "nombre": "XALAPA"
+  },
+  {
+    "numero_municipio": 194,
+    "nombre": "XICO"
+  },
+  {
+    "numero_municipio": 195,
+    "nombre": "XOXOCOTLA"
+  },
+  {
+    "numero_municipio": 196,
+    "nombre": "YANGA"
+  },
+  {
+    "numero_municipio": 197,
+    "nombre": "YECUATLA"
+  },
+  {
+    "numero_municipio": 198,
+    "nombre": "ZACUALPAN"
+  },
+  {
+    "numero_municipio": 199,
+    "nombre": "ZARAGOZA"
+  },
+  {
+    "numero_municipio": 200,
+    "nombre": "ZENTLA"
+  },
+  {
+    "numero_municipio": 201,
+    "nombre": "ZONGOLICA"
+  },
+  {
+    "numero_municipio": 202,
+    "nombre": "ZONTECOMATLAN DE LOPEZ Y FUENTES"
+  },
+  {
+    "numero_municipio": 203,
+    "nombre": "ZOZOCOLCO DE HIDALGO"
+  }
+]

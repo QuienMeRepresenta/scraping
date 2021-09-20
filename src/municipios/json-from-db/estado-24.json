@@ -1,0 +1,234 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "AHUALULCO"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "ALAQUINES"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "AQUISMON"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "ARMADILLO DE LOS INFANTE"
+  },
+  {
+    "numero_municipio": 54,
+    "nombre": "AXTLA DE TERRAZAS"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "CARDENAS"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "CATORCE"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "CEDRAL"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "CERRITOS"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "CERRO DE SAN PEDRO"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "CHARCAS"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "CIUDAD DEL MAIZ"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "CIUDAD FERNANDEZ"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "CIUDAD VALLES"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "COXCATLAN"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "EBANO"
+  },
+  {
+    "numero_municipio": 57,
+    "nombre": "EL NARANJO"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "GUADALCAZAR"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "HUEHUETLAN"
+  },
+  {
+    "numero_municipio": 19,
+    "nombre": "LAGUNILLAS"
+  },
+  {
+    "numero_municipio": 20,
+    "nombre": "MATEHUALA"
+  },
+  {
+    "numero_municipio": 58,
+    "nombre": "MATLAPA"
+  },
+  {
+    "numero_municipio": 21,
+    "nombre": "MEXQUITIC DE CARMONA"
+  },
+  {
+    "numero_municipio": 22,
+    "nombre": "MOCTEZUMA"
+  },
+  {
+    "numero_municipio": 23,
+    "nombre": "RAYON"
+  },
+  {
+    "numero_municipio": 24,
+    "nombre": "RIOVERDE"
+  },
+  {
+    "numero_municipio": 25,
+    "nombre": "SALINAS"
+  },
+  {
+    "numero_municipio": 26,
+    "nombre": "SAN ANTONIO"
+  },
+  {
+    "numero_municipio": 27,
+    "nombre": "SAN CIRO DE ACOSTA"
+  },
+  {
+    "numero_municipio": 28,
+    "nombre": "SAN LUIS POTOSI"
+  },
+  {
+    "numero_municipio": 29,
+    "nombre": "SAN MARTIN CHALCHICUAUTLA"
+  },
+  {
+    "numero_municipio": 30,
+    "nombre": "SAN NICOLAS TOLENTINO"
+  },
+  {
+    "numero_municipio": 32,
+    "nombre": "SANTA CATARINA"
+  },
+  {
+    "numero_municipio": 33,
+    "nombre": "SANTA MARIA DEL RIO"
+  },
+  {
+    "numero_municipio": 34,
+    "nombre": "SANTO DOMINGO"
+  },
+  {
+    "numero_municipio": 31,
+    "nombre": "SAN VICENTE TANCUAYALAB"
+  },
+  {
+    "numero_municipio": 35,
+    "nombre": "SOLEDAD DE GRACIANO SANCHEZ"
+  },
+  {
+    "numero_municipio": 36,
+    "nombre": "TAMASOPO"
+  },
+  {
+    "numero_municipio": 37,
+    "nombre": "TAMAZUNCHALE"
+  },
+  {
+    "numero_municipio": 38,
+    "nombre": "TAMPACAN"
+  },
+  {
+    "numero_municipio": 39,
+    "nombre": "TAMPAMOLON CORONA"
+  },
+  {
+    "numero_municipio": 40,
+    "nombre": "TAMUIN"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "TANCANHUITZ"
+  },
+  {
+    "numero_municipio": 41,
+    "nombre": "TANLAJAS"
+  },
+  {
+    "numero_municipio": 42,
+    "nombre": "TANQUIAN DE ESCOBEDO"
+  },
+  {
+    "numero_municipio": 43,
+    "nombre": "TIERRA NUEVA"
+  },
+  {
+    "numero_municipio": 44,
+    "nombre": "VANEGAS"
+  },
+  {
+    "numero_municipio": 45,
+    "nombre": "VENADO"
+  },
+  {
+    "numero_municipio": 46,
+    "nombre": "VILLA DE ARISTA"
+  },
+  {
+    "numero_municipio": 47,
+    "nombre": "VILLA DE ARRIAGA"
+  },
+  {
+    "numero_municipio": 48,
+    "nombre": "VILLA DE GUADALUPE"
+  },
+  {
+    "numero_municipio": 49,
+    "nombre": "VILLA DE LA PAZ"
+  },
+  {
+    "numero_municipio": 50,
+    "nombre": "VILLA DE RAMOS"
+  },
+  {
+    "numero_municipio": 51,
+    "nombre": "VILLA DE REYES"
+  },
+  {
+    "numero_municipio": 52,
+    "nombre": "VILLA HIDALGO"
+  },
+  {
+    "numero_municipio": 53,
+    "nombre": "VILLA JUAREZ"
+  },
+  {
+    "numero_municipio": 55,
+    "nombre": "XILITLA"
+  },
+  {
+    "numero_municipio": 56,
+    "nombre": "ZARAGOZA"
+  }
+]

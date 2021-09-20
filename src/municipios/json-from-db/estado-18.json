@@ -1,0 +1,82 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "ACAPONETA"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "AHUACATLAN"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "AMATLAN DE CANAS"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "BAHIA DE BANDERAS"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "COMPOSTELA"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "DEL NAYAR"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "HUAJICORI"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "IXTLAN DEL RIO"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "JALA"
+  },
+  {
+    "numero_municipio": 20,
+    "nombre": "LA YESCA"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "ROSAMORADA"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "RUIZ"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "SAN BLAS"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "SAN PEDRO LAGUNILLAS"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "SANTA MARIA DEL ORO"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "SANTIAGO IXCUINTLA"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "TECUALA"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "TEPIC"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "TUXPAN"
+  },
+  {
+    "numero_municipio": 19,
+    "nombre": "XALISCO"
+  }
+]

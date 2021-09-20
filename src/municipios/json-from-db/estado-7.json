@@ -1,0 +1,498 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "ACACOYAGUA"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "ACALA"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "ACAPETAHUA"
+  },
+  {
+    "numero_municipio": 112,
+    "nombre": "ALDAMA"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "ALTAMIRANO"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "AMATAN"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "AMATENANGO DE LA FRONTERA"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "AMATENANGO DEL VALLE"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "ANGEL ALBINO CORZO"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "ARRIAGA"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "BEJUCAL DE OCAMPO"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "BELLA VISTA"
+  },
+  {
+    "numero_municipio": 113,
+    "nombre": "BENEMERITO DE LAS AMERICAS"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "BERRIOZABAL"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "BOCHIL"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "CACAHOATAN"
+  },
+  {
+    "numero_municipio": 119,
+    "nombre": "CAPITAN LUIS ANGEL VIDAL"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "CATAZAJA"
+  },
+  {
+    "numero_municipio": 22,
+    "nombre": "CHALCHIHUITAN"
+  },
+  {
+    "numero_municipio": 23,
+    "nombre": "CHAMULA"
+  },
+  {
+    "numero_municipio": 24,
+    "nombre": "CHANAL"
+  },
+  {
+    "numero_municipio": 25,
+    "nombre": "CHAPULTENANGO"
+  },
+  {
+    "numero_municipio": 26,
+    "nombre": "CHENALHO"
+  },
+  {
+    "numero_municipio": 27,
+    "nombre": "CHIAPA DE CORZO"
+  },
+  {
+    "numero_municipio": 28,
+    "nombre": "CHIAPILLA"
+  },
+  {
+    "numero_municipio": 29,
+    "nombre": "CHICOASEN"
+  },
+  {
+    "numero_municipio": 30,
+    "nombre": "CHICOMUSELO"
+  },
+  {
+    "numero_municipio": 31,
+    "nombre": "CHILON"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "CINTALAPA"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "COAPILLA"
+  },
+  {
+    "numero_municipio": 19,
+    "nombre": "COMITAN DE DOMINGUEZ"
+  },
+  {
+    "numero_municipio": 21,
+    "nombre": "COPAINALA"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "EL BOSQUE"
+  },
+  {
+    "numero_municipio": 121,
+    "nombre": "EL PARRAL"
+  },
+  {
+    "numero_municipio": 70,
+    "nombre": "EL PORVENIR"
+  },
+  {
+    "numero_municipio": 122,
+    "nombre": "EMILIANO ZAPATA"
+  },
+  {
+    "numero_municipio": 32,
+    "nombre": "ESCUINTLA"
+  },
+  {
+    "numero_municipio": 33,
+    "nombre": "FRANCISCO LEON"
+  },
+  {
+    "numero_municipio": 34,
+    "nombre": "FRONTERA COMALAPA"
+  },
+  {
+    "numero_municipio": 35,
+    "nombre": "FRONTERA HIDALGO"
+  },
+  {
+    "numero_municipio": 124,
+    "nombre": "HONDURAS DE LA SIERRA"
+  },
+  {
+    "numero_municipio": 37,
+    "nombre": "HUEHUETAN"
+  },
+  {
+    "numero_municipio": 38,
+    "nombre": "HUITIUPAN"
+  },
+  {
+    "numero_municipio": 39,
+    "nombre": "HUIXTAN"
+  },
+  {
+    "numero_municipio": 40,
+    "nombre": "HUIXTLA"
+  },
+  {
+    "numero_municipio": 42,
+    "nombre": "IXHUATAN"
+  },
+  {
+    "numero_municipio": 43,
+    "nombre": "IXTACOMITAN"
+  },
+  {
+    "numero_municipio": 44,
+    "nombre": "IXTAPA"
+  },
+  {
+    "numero_municipio": 45,
+    "nombre": "IXTAPANGAJOYA"
+  },
+  {
+    "numero_municipio": 46,
+    "nombre": "JIQUIPILAS"
+  },
+  {
+    "numero_municipio": 47,
+    "nombre": "JITOTOL"
+  },
+  {
+    "numero_municipio": 48,
+    "nombre": "JUAREZ"
+  },
+  {
+    "numero_municipio": 20,
+    "nombre": "LA CONCORDIA"
+  },
+  {
+    "numero_municipio": 36,
+    "nombre": "LA GRANDEZA"
+  },
+  {
+    "numero_municipio": 41,
+    "nombre": "LA INDEPENDENCIA"
+  },
+  {
+    "numero_municipio": 50,
+    "nombre": "LA LIBERTAD"
+  },
+  {
+    "numero_municipio": 49,
+    "nombre": "LARRAINZAR"
+  },
+  {
+    "numero_municipio": 52,
+    "nombre": "LAS MARGARITAS"
+  },
+  {
+    "numero_municipio": 74,
+    "nombre": "LAS ROSAS"
+  },
+  {
+    "numero_municipio": 99,
+    "nombre": "LA TRINITARIA"
+  },
+  {
+    "numero_municipio": 51,
+    "nombre": "MAPASTEPEC"
+  },
+  {
+    "numero_municipio": 114,
+    "nombre": "MARAVILLA TENEJAPA"
+  },
+  {
+    "numero_municipio": 115,
+    "nombre": "MARQUES DE COMILLAS"
+  },
+  {
+    "numero_municipio": 53,
+    "nombre": "MAZAPA DE MADERO"
+  },
+  {
+    "numero_municipio": 54,
+    "nombre": "MAZATAN"
+  },
+  {
+    "numero_municipio": 55,
+    "nombre": "METAPA"
+  },
+  {
+    "numero_municipio": 123,
+    "nombre": "MEZCALAPA"
+  },
+  {
+    "numero_municipio": 56,
+    "nombre": "MITONTIC"
+  },
+  {
+    "numero_municipio": 116,
+    "nombre": "MONTECRISTO DE GUERRERO"
+  },
+  {
+    "numero_municipio": 57,
+    "nombre": "MOTOZINTLA"
+  },
+  {
+    "numero_municipio": 58,
+    "nombre": "NICOLAS RUIZ"
+  },
+  {
+    "numero_municipio": 59,
+    "nombre": "OCOSINGO"
+  },
+  {
+    "numero_municipio": 60,
+    "nombre": "OCOTEPEC"
+  },
+  {
+    "numero_municipio": 61,
+    "nombre": "OCOZOCOAUTLA DE ESPINOSA"
+  },
+  {
+    "numero_municipio": 62,
+    "nombre": "OSTUACAN"
+  },
+  {
+    "numero_municipio": 63,
+    "nombre": "OSUMACINTA"
+  },
+  {
+    "numero_municipio": 64,
+    "nombre": "OXCHUC"
+  },
+  {
+    "numero_municipio": 65,
+    "nombre": "PALENQUE"
+  },
+  {
+    "numero_municipio": 66,
+    "nombre": "PANTELHO"
+  },
+  {
+    "numero_municipio": 67,
+    "nombre": "PANTEPEC"
+  },
+  {
+    "numero_municipio": 68,
+    "nombre": "PICHUCALCO"
+  },
+  {
+    "numero_municipio": 69,
+    "nombre": "PIJIJIAPAN"
+  },
+  {
+    "numero_municipio": 71,
+    "nombre": "PUEBLO NUEVO SOLISTAHUACAN"
+  },
+  {
+    "numero_municipio": 72,
+    "nombre": "RAYON"
+  },
+  {
+    "numero_municipio": 73,
+    "nombre": "REFORMA"
+  },
+  {
+    "numero_municipio": 120,
+    "nombre": "RINCON CHAMULA SAN PEDRO"
+  },
+  {
+    "numero_municipio": 75,
+    "nombre": "SABANILLA"
+  },
+  {
+    "numero_municipio": 76,
+    "nombre": "SALTO DE AGUA"
+  },
+  {
+    "numero_municipio": 117,
+    "nombre": "SAN ANDRES DURAZNAL"
+  },
+  {
+    "numero_municipio": 77,
+    "nombre": "SAN CRISTOBAL DE LAS CASAS"
+  },
+  {
+    "numero_municipio": 78,
+    "nombre": "SAN FERNANDO"
+  },
+  {
+    "numero_municipio": 79,
+    "nombre": "SAN JUAN CANCUC"
+  },
+  {
+    "numero_municipio": 80,
+    "nombre": "SAN LUCAS"
+  },
+  {
+    "numero_municipio": 118,
+    "nombre": "SANTIAGO EL PINAR"
+  },
+  {
+    "numero_municipio": 81,
+    "nombre": "SILTEPEC"
+  },
+  {
+    "numero_municipio": 82,
+    "nombre": "SIMOJOVEL"
+  },
+  {
+    "numero_municipio": 83,
+    "nombre": "SITALA"
+  },
+  {
+    "numero_municipio": 84,
+    "nombre": "SOCOLTENANGO"
+  },
+  {
+    "numero_municipio": 85,
+    "nombre": "SOLOSUCHIAPA"
+  },
+  {
+    "numero_municipio": 86,
+    "nombre": "SOYALO"
+  },
+  {
+    "numero_municipio": 87,
+    "nombre": "SUCHIAPA"
+  },
+  {
+    "numero_municipio": 88,
+    "nombre": "SUCHIATE"
+  },
+  {
+    "numero_municipio": 89,
+    "nombre": "SUNUAPA"
+  },
+  {
+    "numero_municipio": 90,
+    "nombre": "TAPACHULA"
+  },
+  {
+    "numero_municipio": 91,
+    "nombre": "TAPALAPA"
+  },
+  {
+    "numero_municipio": 92,
+    "nombre": "TAPILULA"
+  },
+  {
+    "numero_municipio": 93,
+    "nombre": "TECPATAN"
+  },
+  {
+    "numero_municipio": 94,
+    "nombre": "TENEJAPA"
+  },
+  {
+    "numero_municipio": 95,
+    "nombre": "TEOPISCA"
+  },
+  {
+    "numero_municipio": 96,
+    "nombre": "TILA"
+  },
+  {
+    "numero_municipio": 97,
+    "nombre": "TONALA"
+  },
+  {
+    "numero_municipio": 98,
+    "nombre": "TOTOLAPA"
+  },
+  {
+    "numero_municipio": 100,
+    "nombre": "TUMBALA"
+  },
+  {
+    "numero_municipio": 101,
+    "nombre": "TUXTLA CHICO"
+  },
+  {
+    "numero_municipio": 102,
+    "nombre": "TUXTLA GUTIERREZ"
+  },
+  {
+    "numero_municipio": 103,
+    "nombre": "TUZANTAN"
+  },
+  {
+    "numero_municipio": 104,
+    "nombre": "TZIMOL"
+  },
+  {
+    "numero_municipio": 105,
+    "nombre": "UNION JUAREZ"
+  },
+  {
+    "numero_municipio": 106,
+    "nombre": "VENUSTIANO CARRANZA"
+  },
+  {
+    "numero_municipio": 107,
+    "nombre": "VILLA COMALTITLAN"
+  },
+  {
+    "numero_municipio": 108,
+    "nombre": "VILLA CORZO"
+  },
+  {
+    "numero_municipio": 109,
+    "nombre": "VILLAFLORES"
+  },
+  {
+    "numero_municipio": 110,
+    "nombre": "YAJALON"
+  },
+  {
+    "numero_municipio": 111,
+    "nombre": "ZINACANTAN"
+  }
+]

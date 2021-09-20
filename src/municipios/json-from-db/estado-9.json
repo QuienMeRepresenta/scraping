@@ -1,0 +1,66 @@
+[
+  {
+    "numero_municipio": 10,
+    "nombre": "ALVARO OBREGON"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "AZCAPOTZALCO"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "BENITO JUAREZ"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "COYOACAN"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "CUAJIMALPA DE MORELOS"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "CUAUHTEMOC"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "GUSTAVO A. MADERO"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "IZTACALCO"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "IZTAPALAPA"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "LA MAGDALENA CONTRERAS"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "MIGUEL HIDALGO"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "MILPA ALTA"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "TLAHUAC"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "TLALPAN"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "VENUSTIANO CARRANZA"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "XOCHIMILCO"
+  }
+]

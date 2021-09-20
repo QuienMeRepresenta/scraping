@@ -1,0 +1,290 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "ACONCHI"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "AGUA PRIETA"
+  },
+  {
+    "numero_municipio": 62,
+    "nombre": "ALAMOS"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "ALTAR"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "ARIVECHI"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "ARIZPE"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "ATIL"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "BACADEHUACHI"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "BACANORA"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "BACERAC"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "BACOACHI"
+  },
+  {
+    "numero_municipio": 58,
+    "nombre": "BACUM"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "BANAMICHI"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "BAVIACORA"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "BAVISPE"
+  },
+  {
+    "numero_municipio": 71,
+    "nombre": "BENITO JUAREZ"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "BENJAMIN HILL"
+  },
+  {
+    "numero_municipio": 46,
+    "nombre": "CABORCA"
+  },
+  {
+    "numero_municipio": 59,
+    "nombre": "CAJEME"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "CANANEA"
+  },
+  {
+    "numero_municipio": 47,
+    "nombre": "CARBO"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "CUCURPE"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "CUMPAS"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "DIVISADEROS"
+  },
+  {
+    "numero_municipio": 60,
+    "nombre": "EMPALME"
+  },
+  {
+    "numero_municipio": 63,
+    "nombre": "ETCHOJOA"
+  },
+  {
+    "numero_municipio": 19,
+    "nombre": "FRONTERAS"
+  },
+  {
+    "numero_municipio": 70,
+    "nombre": "GENERAL PLUTARCO ELIAS CALLES"
+  },
+  {
+    "numero_municipio": 20,
+    "nombre": "GRANADOS"
+  },
+  {
+    "numero_municipio": 61,
+    "nombre": "GUAYMAS"
+  },
+  {
+    "numero_municipio": 49,
+    "nombre": "HERMOSILLO"
+  },
+  {
+    "numero_municipio": 21,
+    "nombre": "HUACHINERA"
+  },
+  {
+    "numero_municipio": 22,
+    "nombre": "HUASABAS"
+  },
+  {
+    "numero_municipio": 64,
+    "nombre": "HUATABAMPO"
+  },
+  {
+    "numero_municipio": 23,
+    "nombre": "HUEPAC"
+  },
+  {
+    "numero_municipio": 24,
+    "nombre": "IMURIS"
+  },
+  {
+    "numero_municipio": 48,
+    "nombre": "LA COLORADA"
+  },
+  {
+    "numero_municipio": 25,
+    "nombre": "MAGDALENA"
+  },
+  {
+    "numero_municipio": 50,
+    "nombre": "MAZATAN"
+  },
+  {
+    "numero_municipio": 26,
+    "nombre": "MOCTEZUMA"
+  },
+  {
+    "numero_municipio": 27,
+    "nombre": "NACO"
+  },
+  {
+    "numero_municipio": 28,
+    "nombre": "NACORI CHICO"
+  },
+  {
+    "numero_municipio": 29,
+    "nombre": "NACOZARI DE GARCIA"
+  },
+  {
+    "numero_municipio": 65,
+    "nombre": "NAVOJOA"
+  },
+  {
+    "numero_municipio": 30,
+    "nombre": "NOGALES"
+  },
+  {
+    "numero_municipio": 66,
+    "nombre": "ONAVAS"
+  },
+  {
+    "numero_municipio": 51,
+    "nombre": "OPODEPE"
+  },
+  {
+    "numero_municipio": 31,
+    "nombre": "OQUITOA"
+  },
+  {
+    "numero_municipio": 52,
+    "nombre": "PITIQUITO"
+  },
+  {
+    "numero_municipio": 53,
+    "nombre": "PUERTO PENASCO"
+  },
+  {
+    "numero_municipio": 67,
+    "nombre": "QUIRIEGO"
+  },
+  {
+    "numero_municipio": 54,
+    "nombre": "RAYON"
+  },
+  {
+    "numero_municipio": 68,
+    "nombre": "ROSARIO"
+  },
+  {
+    "numero_municipio": 32,
+    "nombre": "SAHUARIPA"
+  },
+  {
+    "numero_municipio": 33,
+    "nombre": "SAN FELIPE DE JESUS"
+  },
+  {
+    "numero_municipio": 72,
+    "nombre": "SAN IGNACIO RIO MUERTO"
+  },
+  {
+    "numero_municipio": 34,
+    "nombre": "SAN JAVIER"
+  },
+  {
+    "numero_municipio": 55,
+    "nombre": "SAN LUIS RIO COLORADO"
+  },
+  {
+    "numero_municipio": 56,
+    "nombre": "SAN MIGUEL DE HORCASITAS"
+  },
+  {
+    "numero_municipio": 35,
+    "nombre": "SAN PEDRO DE LA CUEVA"
+  },
+  {
+    "numero_municipio": 36,
+    "nombre": "SANTA ANA"
+  },
+  {
+    "numero_municipio": 37,
+    "nombre": "SANTA CRUZ"
+  },
+  {
+    "numero_municipio": 38,
+    "nombre": "SARIC"
+  },
+  {
+    "numero_municipio": 39,
+    "nombre": "SOYOPA"
+  },
+  {
+    "numero_municipio": 40,
+    "nombre": "SUAQUI GRANDE"
+  },
+  {
+    "numero_municipio": 41,
+    "nombre": "TEPACHE"
+  },
+  {
+    "numero_municipio": 42,
+    "nombre": "TRINCHERAS"
+  },
+  {
+    "numero_municipio": 43,
+    "nombre": "TUBUTAMA"
+  },
+  {
+    "numero_municipio": 57,
+    "nombre": "URES"
+  },
+  {
+    "numero_municipio": 44,
+    "nombre": "VILLA HIDALGO"
+  },
+  {
+    "numero_municipio": 45,
+    "nombre": "VILLA PESQUEIRA"
+  },
+  {
+    "numero_municipio": 69,
+    "nombre": "YECORA"
+  }
+]

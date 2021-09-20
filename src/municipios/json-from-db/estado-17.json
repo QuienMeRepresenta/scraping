@@ -1,0 +1,142 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "AMACUZAC"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "ATLATLAHUCAN"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "AXOCHIAPAN"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "AYALA"
+  },
+  {
+    "numero_municipio": 34,
+    "nombre": "COATETELCO"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "COATLAN DEL RIO"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "CUAUTLA"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "CUERNAVACA"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "EMILIANO ZAPATA"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "HUITZILAC"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "JANTETELCO"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "JIUTEPEC"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "JOJUTLA"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "JONACATEPEC DE LEANDRO VALLE"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "MAZATEPEC"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "MIACATLAN"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "OCUITUCO"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "PUENTE DE IXTLA"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "TEMIXCO"
+  },
+  {
+    "numero_municipio": 33,
+    "nombre": "TEMOAC"
+  },
+  {
+    "numero_municipio": 19,
+    "nombre": "TEPALCINGO"
+  },
+  {
+    "numero_municipio": 20,
+    "nombre": "TEPOZTLAN"
+  },
+  {
+    "numero_municipio": 21,
+    "nombre": "TETECALA"
+  },
+  {
+    "numero_municipio": 22,
+    "nombre": "TETELA DEL VOLCAN"
+  },
+  {
+    "numero_municipio": 23,
+    "nombre": "TLALNEPANTLA"
+  },
+  {
+    "numero_municipio": 24,
+    "nombre": "TLALTIZAPAN DE ZAPATA"
+  },
+  {
+    "numero_municipio": 25,
+    "nombre": "TLAQUILTENANGO"
+  },
+  {
+    "numero_municipio": 26,
+    "nombre": "TLAYACAPAN"
+  },
+  {
+    "numero_municipio": 27,
+    "nombre": "TOTOLAPAN"
+  },
+  {
+    "numero_municipio": 28,
+    "nombre": "XOCHITEPEC"
+  },
+  {
+    "numero_municipio": 35,
+    "nombre": "XOXOCOTLA"
+  },
+  {
+    "numero_municipio": 29,
+    "nombre": "YAUTEPEC"
+  },
+  {
+    "numero_municipio": 30,
+    "nombre": "YECAPIXTLA"
+  },
+  {
+    "numero_municipio": 31,
+    "nombre": "ZACATEPEC"
+  },
+  {
+    "numero_municipio": 32,
+    "nombre": "ZACUALPAN DE AMILPAS"
+  }
+]

@@ -1,0 +1,454 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "ACUITZIO"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "AGUILILLA"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "ALVARO OBREGON"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "ANGAMACUTIRO"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "ANGANGUEO"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "APATZINGAN"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "APORO"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "AQUILA"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "ARIO"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "ARTEAGA"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "BRISENAS"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "BUENAVISTA"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "CARACUARO"
+  },
+  {
+    "numero_municipio": 21,
+    "nombre": "CHARAPAN"
+  },
+  {
+    "numero_municipio": 22,
+    "nombre": "CHARO"
+  },
+  {
+    "numero_municipio": 23,
+    "nombre": "CHAVINDA"
+  },
+  {
+    "numero_municipio": 24,
+    "nombre": "CHERAN"
+  },
+  {
+    "numero_municipio": 25,
+    "nombre": "CHILCHOTA"
+  },
+  {
+    "numero_municipio": 26,
+    "nombre": "CHINICUILA"
+  },
+  {
+    "numero_municipio": 27,
+    "nombre": "CHUCANDIRO"
+  },
+  {
+    "numero_municipio": 28,
+    "nombre": "CHURINTZIO"
+  },
+  {
+    "numero_municipio": 29,
+    "nombre": "CHURUMUCO"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "COAHUAYANA"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "COALCOMAN DE VAZQUEZ PALLARES"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "COENEO"
+  },
+  {
+    "numero_municipio": 75,
+    "nombre": "COJUMATLAN DE REGULES"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "CONTEPEC"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "COPANDARO"
+  },
+  {
+    "numero_municipio": 19,
+    "nombre": "COTIJA"
+  },
+  {
+    "numero_municipio": 20,
+    "nombre": "CUITZEO"
+  },
+  {
+    "numero_municipio": 30,
+    "nombre": "ECUANDUREO"
+  },
+  {
+    "numero_municipio": 31,
+    "nombre": "EPITACIO HUERTA"
+  },
+  {
+    "numero_municipio": 32,
+    "nombre": "ERONGARICUARO"
+  },
+  {
+    "numero_municipio": 33,
+    "nombre": "GABRIEL ZAMORA"
+  },
+  {
+    "numero_municipio": 34,
+    "nombre": "HIDALGO"
+  },
+  {
+    "numero_municipio": 36,
+    "nombre": "HUANDACAREO"
+  },
+  {
+    "numero_municipio": 37,
+    "nombre": "HUANIQUEO"
+  },
+  {
+    "numero_municipio": 38,
+    "nombre": "HUETAMO"
+  },
+  {
+    "numero_municipio": 39,
+    "nombre": "HUIRAMBA"
+  },
+  {
+    "numero_municipio": 40,
+    "nombre": "INDAPARAPEO"
+  },
+  {
+    "numero_municipio": 41,
+    "nombre": "IRIMBO"
+  },
+  {
+    "numero_municipio": 42,
+    "nombre": "IXTLAN"
+  },
+  {
+    "numero_municipio": 43,
+    "nombre": "JACONA"
+  },
+  {
+    "numero_municipio": 44,
+    "nombre": "JIMENEZ"
+  },
+  {
+    "numero_municipio": 45,
+    "nombre": "JIQUILPAN"
+  },
+  {
+    "numero_municipio": 46,
+    "nombre": "JOSE SIXTO VERDUZCO"
+  },
+  {
+    "numero_municipio": 47,
+    "nombre": "JUAREZ"
+  },
+  {
+    "numero_municipio": 48,
+    "nombre": "JUNGAPEO"
+  },
+  {
+    "numero_municipio": 49,
+    "nombre": "LAGUNILLAS"
+  },
+  {
+    "numero_municipio": 35,
+    "nombre": "LA HUACANA"
+  },
+  {
+    "numero_municipio": 70,
+    "nombre": "LA PIEDAD"
+  },
+  {
+    "numero_municipio": 50,
+    "nombre": "LAZARO CARDENAS"
+  },
+  {
+    "numero_municipio": 76,
+    "nombre": "LOS REYES"
+  },
+  {
+    "numero_municipio": 51,
+    "nombre": "MADERO"
+  },
+  {
+    "numero_municipio": 52,
+    "nombre": "MARAVATIO"
+  },
+  {
+    "numero_municipio": 53,
+    "nombre": "MARCOS CASTELLANOS"
+  },
+  {
+    "numero_municipio": 54,
+    "nombre": "MORELIA"
+  },
+  {
+    "numero_municipio": 55,
+    "nombre": "MORELOS"
+  },
+  {
+    "numero_municipio": 56,
+    "nombre": "MUGICA"
+  },
+  {
+    "numero_municipio": 57,
+    "nombre": "NAHUATZEN"
+  },
+  {
+    "numero_municipio": 58,
+    "nombre": "NOCUPETARO"
+  },
+  {
+    "numero_municipio": 59,
+    "nombre": "NUEVO PARANGARICUTIRO"
+  },
+  {
+    "numero_municipio": 60,
+    "nombre": "NUEVO URECHO"
+  },
+  {
+    "numero_municipio": 61,
+    "nombre": "NUMARAN"
+  },
+  {
+    "numero_municipio": 62,
+    "nombre": "OCAMPO"
+  },
+  {
+    "numero_municipio": 63,
+    "nombre": "PAJACUARAN"
+  },
+  {
+    "numero_municipio": 64,
+    "nombre": "PANINDICUARO"
+  },
+  {
+    "numero_municipio": 66,
+    "nombre": "PARACHO"
+  },
+  {
+    "numero_municipio": 65,
+    "nombre": "PARACUARO"
+  },
+  {
+    "numero_municipio": 67,
+    "nombre": "PATZCUARO"
+  },
+  {
+    "numero_municipio": 68,
+    "nombre": "PENJAMILLO"
+  },
+  {
+    "numero_municipio": 69,
+    "nombre": "PERIBAN"
+  },
+  {
+    "numero_municipio": 71,
+    "nombre": "PUREPERO"
+  },
+  {
+    "numero_municipio": 72,
+    "nombre": "PURUANDIRO"
+  },
+  {
+    "numero_municipio": 73,
+    "nombre": "QUERENDARO"
+  },
+  {
+    "numero_municipio": 74,
+    "nombre": "QUIROGA"
+  },
+  {
+    "numero_municipio": 77,
+    "nombre": "SAHUAYO"
+  },
+  {
+    "numero_municipio": 80,
+    "nombre": "SALVADOR ESCALANTE"
+  },
+  {
+    "numero_municipio": 78,
+    "nombre": "SAN LUCAS"
+  },
+  {
+    "numero_municipio": 79,
+    "nombre": "SANTA ANA MAYA"
+  },
+  {
+    "numero_municipio": 81,
+    "nombre": "SENGUIO"
+  },
+  {
+    "numero_municipio": 82,
+    "nombre": "SUSUPUATO"
+  },
+  {
+    "numero_municipio": 83,
+    "nombre": "TACAMBARO"
+  },
+  {
+    "numero_municipio": 84,
+    "nombre": "TANCITARO"
+  },
+  {
+    "numero_municipio": 85,
+    "nombre": "TANGAMANDAPIO"
+  },
+  {
+    "numero_municipio": 86,
+    "nombre": "TANGANCICUARO"
+  },
+  {
+    "numero_municipio": 87,
+    "nombre": "TANHUATO"
+  },
+  {
+    "numero_municipio": 88,
+    "nombre": "TARETAN"
+  },
+  {
+    "numero_municipio": 89,
+    "nombre": "TARIMBARO"
+  },
+  {
+    "numero_municipio": 90,
+    "nombre": "TEPALCATEPEC"
+  },
+  {
+    "numero_municipio": 91,
+    "nombre": "TINGAMBATO"
+  },
+  {
+    "numero_municipio": 92,
+    "nombre": "TINGUINDIN"
+  },
+  {
+    "numero_municipio": 93,
+    "nombre": "TIQUICHEO DE NICOLAS ROMERO"
+  },
+  {
+    "numero_municipio": 94,
+    "nombre": "TLALPUJAHUA"
+  },
+  {
+    "numero_municipio": 95,
+    "nombre": "TLAZAZALCA"
+  },
+  {
+    "numero_municipio": 96,
+    "nombre": "TOCUMBO"
+  },
+  {
+    "numero_municipio": 97,
+    "nombre": "TUMBISCATIO"
+  },
+  {
+    "numero_municipio": 98,
+    "nombre": "TURICATO"
+  },
+  {
+    "numero_municipio": 99,
+    "nombre": "TUXPAN"
+  },
+  {
+    "numero_municipio": 100,
+    "nombre": "TUZANTLA"
+  },
+  {
+    "numero_municipio": 101,
+    "nombre": "TZINTZUNTZAN"
+  },
+  {
+    "numero_municipio": 102,
+    "nombre": "TZITZIO"
+  },
+  {
+    "numero_municipio": 103,
+    "nombre": "URUAPAN"
+  },
+  {
+    "numero_municipio": 104,
+    "nombre": "VENUSTIANO CARRANZA"
+  },
+  {
+    "numero_municipio": 105,
+    "nombre": "VILLAMAR"
+  },
+  {
+    "numero_municipio": 106,
+    "nombre": "VISTA HERMOSA"
+  },
+  {
+    "numero_municipio": 107,
+    "nombre": "YURECUARO"
+  },
+  {
+    "numero_municipio": 108,
+    "nombre": "ZACAPU"
+  },
+  {
+    "numero_municipio": 109,
+    "nombre": "ZAMORA"
+  },
+  {
+    "numero_municipio": 110,
+    "nombre": "ZINAPARO"
+  },
+  {
+    "numero_municipio": 111,
+    "nombre": "ZINAPECUARO"
+  },
+  {
+    "numero_municipio": 112,
+    "nombre": "ZIRACUARETIRO"
+  },
+  {
+    "numero_municipio": 113,
+    "nombre": "ZITACUARO"
+  }
+]

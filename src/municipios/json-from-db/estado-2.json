@@ -1,0 +1,22 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "ENSENADA"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "MEXICALI"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "TECATE"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "TIJUANA"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "PLAYAS DE ROSARITO"
+  }
+]

@@ -8,7 +8,7 @@ const path = require('path')
  * @param {string} filePath El archivo que se checara que existe. Si no existe se creará al generar el request
  * @returns {string}
  */
-async function htmlFor(axiosConfig, dirPath, fileName, toString) {
+async function htmlFor(axiosConfig, dirPath, fileName, toString = 'utf8', verbose = false) {
   await fs.ensureDir(dirPath)
   const filePath = path.join(dirPath, fileName)
   const ts = toString || 'utf8'
@@ -16,13 +16,17 @@ async function htmlFor(axiosConfig, dirPath, fileName, toString) {
   const exists = await fs.pathExists(filePath)
 
   if (exists) {
-    console.log('Leyendo archivo del disco', filePath)
+    if (verbose) {
+      console.log('Leyendo archivo del disco', filePath)
+    }
     const html = await fs.readFile(filePath, ts)
     return html
   }
 
-  console.log('El archivo no existe en disco', filePath)
-  console.log('Haciendo http request a', axiosConfig.url)
+  if (verbose) {
+    console.log('El archivo no existe en disco', filePath)
+    console.log('Haciendo http request a', axiosConfig.url)
+  }
 
   const { data } = await axios(axiosConfig)
 

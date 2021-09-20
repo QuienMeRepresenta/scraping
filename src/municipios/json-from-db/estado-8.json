@@ -1,0 +1,270 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "AHUMADA"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "ALDAMA"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "ALLENDE"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "AQUILES SERDAN"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "ASCENSION"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "BACHINIVA"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "BALLEZA"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "BATOPILAS DE MANUEL GOMEZ MORIN"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "BOCOYNA"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "BUENAVENTURA"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "CAMARGO"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "CARICHI"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "CASAS GRANDES"
+  },
+  {
+    "numero_municipio": 19,
+    "nombre": "CHIHUAHUA"
+  },
+  {
+    "numero_municipio": 20,
+    "nombre": "CHINIPAS"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "CORONADO"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "COYAME DEL SOTOL"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "CUAUHTEMOC"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "CUSIHUIRIACHI"
+  },
+  {
+    "numero_municipio": 21,
+    "nombre": "DELICIAS"
+  },
+  {
+    "numero_municipio": 22,
+    "nombre": "DR. BELISARIO DOMINGUEZ"
+  },
+  {
+    "numero_municipio": 64,
+    "nombre": "EL TULE"
+  },
+  {
+    "numero_municipio": 23,
+    "nombre": "GALEANA"
+  },
+  {
+    "numero_municipio": 25,
+    "nombre": "GOMEZ FARIAS"
+  },
+  {
+    "numero_municipio": 26,
+    "nombre": "GRAN MORELOS"
+  },
+  {
+    "numero_municipio": 27,
+    "nombre": "GUACHOCHI"
+  },
+  {
+    "numero_municipio": 28,
+    "nombre": "GUADALUPE"
+  },
+  {
+    "numero_municipio": 29,
+    "nombre": "GUADALUPE Y CALVO"
+  },
+  {
+    "numero_municipio": 30,
+    "nombre": "GUAZAPARES"
+  },
+  {
+    "numero_municipio": 31,
+    "nombre": "GUERRERO"
+  },
+  {
+    "numero_municipio": 32,
+    "nombre": "HIDALGO DEL PARRAL"
+  },
+  {
+    "numero_municipio": 33,
+    "nombre": "HUEJOTITAN"
+  },
+  {
+    "numero_municipio": 34,
+    "nombre": "IGNACIO ZARAGOZA"
+  },
+  {
+    "numero_municipio": 35,
+    "nombre": "JANOS"
+  },
+  {
+    "numero_municipio": 36,
+    "nombre": "JIMENEZ"
+  },
+  {
+    "numero_municipio": 37,
+    "nombre": "JUAREZ"
+  },
+  {
+    "numero_municipio": 38,
+    "nombre": "JULIMES"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "LA CRUZ"
+  },
+  {
+    "numero_municipio": 39,
+    "nombre": "LOPEZ"
+  },
+  {
+    "numero_municipio": 40,
+    "nombre": "MADERA"
+  },
+  {
+    "numero_municipio": 41,
+    "nombre": "MAGUARICHI"
+  },
+  {
+    "numero_municipio": 42,
+    "nombre": "MANUEL BENAVIDES"
+  },
+  {
+    "numero_municipio": 43,
+    "nombre": "MATACHI"
+  },
+  {
+    "numero_municipio": 44,
+    "nombre": "MATAMOROS"
+  },
+  {
+    "numero_municipio": 45,
+    "nombre": "MEOQUI"
+  },
+  {
+    "numero_municipio": 46,
+    "nombre": "MORELOS"
+  },
+  {
+    "numero_municipio": 47,
+    "nombre": "MORIS"
+  },
+  {
+    "numero_municipio": 48,
+    "nombre": "NAMIQUIPA"
+  },
+  {
+    "numero_municipio": 49,
+    "nombre": "NONOAVA"
+  },
+  {
+    "numero_municipio": 50,
+    "nombre": "NUEVO CASAS GRANDES"
+  },
+  {
+    "numero_municipio": 51,
+    "nombre": "OCAMPO"
+  },
+  {
+    "numero_municipio": 52,
+    "nombre": "OJINAGA"
+  },
+  {
+    "numero_municipio": 53,
+    "nombre": "PRAXEDIS G. GUERRERO"
+  },
+  {
+    "numero_municipio": 54,
+    "nombre": "RIVA PALACIO"
+  },
+  {
+    "numero_municipio": 55,
+    "nombre": "ROSALES"
+  },
+  {
+    "numero_municipio": 56,
+    "nombre": "ROSARIO"
+  },
+  {
+    "numero_municipio": 57,
+    "nombre": "SAN FRANCISCO DE BORJA"
+  },
+  {
+    "numero_municipio": 58,
+    "nombre": "SAN FRANCISCO DE CONCHOS"
+  },
+  {
+    "numero_municipio": 59,
+    "nombre": "SAN FRANCISCO DEL ORO"
+  },
+  {
+    "numero_municipio": 60,
+    "nombre": "SANTA BARBARA"
+  },
+  {
+    "numero_municipio": 24,
+    "nombre": "SANTA ISABEL"
+  },
+  {
+    "numero_municipio": 61,
+    "nombre": "SATEVO"
+  },
+  {
+    "numero_municipio": 62,
+    "nombre": "SAUCILLO"
+  },
+  {
+    "numero_municipio": 63,
+    "nombre": "TEMOSACHIC"
+  },
+  {
+    "numero_municipio": 65,
+    "nombre": "URIQUE"
+  },
+  {
+    "numero_municipio": 66,
+    "nombre": "URUACHI"
+  },
+  {
+    "numero_municipio": 67,
+    "nombre": "VALLE DE ZARAGOZA"
+  }
+]

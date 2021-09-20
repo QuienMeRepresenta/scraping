@@ -1,0 +1,234 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "APOZOL"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "APULCO"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "ATOLINGA"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "BENITO JUAREZ"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "CALERA"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "CANITAS DE FELIPE PESCADOR"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "CHALCHIHUITES"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "CONCEPCION DEL ORO"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "CUAUHTEMOC"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "EL PLATEADO DE JOAQUIN AMARO"
+  },
+  {
+    "numero_municipio": 41,
+    "nombre": "EL SALVADOR"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "FRESNILLO"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "GENARO CODINA"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "GENERAL ENRIQUE ESTRADA"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "GENERAL FRANCISCO R. MURGUIA"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "GENERAL PANFILO NATERA"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "GUADALUPE"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "HUANUSCO"
+  },
+  {
+    "numero_municipio": 19,
+    "nombre": "JALPA"
+  },
+  {
+    "numero_municipio": 20,
+    "nombre": "JEREZ"
+  },
+  {
+    "numero_municipio": 21,
+    "nombre": "JIMENEZ DEL TEUL"
+  },
+  {
+    "numero_municipio": 22,
+    "nombre": "JUAN ALDAMA"
+  },
+  {
+    "numero_municipio": 23,
+    "nombre": "JUCHIPILA"
+  },
+  {
+    "numero_municipio": 24,
+    "nombre": "LORETO"
+  },
+  {
+    "numero_municipio": 25,
+    "nombre": "LUIS MOYA"
+  },
+  {
+    "numero_municipio": 26,
+    "nombre": "MAZAPIL"
+  },
+  {
+    "numero_municipio": 27,
+    "nombre": "MELCHOR OCAMPO"
+  },
+  {
+    "numero_municipio": 28,
+    "nombre": "MEZQUITAL DEL ORO"
+  },
+  {
+    "numero_municipio": 29,
+    "nombre": "MIGUEL AUZA"
+  },
+  {
+    "numero_municipio": 30,
+    "nombre": "MOMAX"
+  },
+  {
+    "numero_municipio": 31,
+    "nombre": "MONTE ESCOBEDO"
+  },
+  {
+    "numero_municipio": 32,
+    "nombre": "MORELOS"
+  },
+  {
+    "numero_municipio": 33,
+    "nombre": "MOYAHUA DE ESTRADA"
+  },
+  {
+    "numero_municipio": 34,
+    "nombre": "NOCHISTLAN DE MEJIA"
+  },
+  {
+    "numero_municipio": 35,
+    "nombre": "NORIA DE ANGELES"
+  },
+  {
+    "numero_municipio": 36,
+    "nombre": "OJOCALIENTE"
+  },
+  {
+    "numero_municipio": 37,
+    "nombre": "PANUCO"
+  },
+  {
+    "numero_municipio": 38,
+    "nombre": "PINOS"
+  },
+  {
+    "numero_municipio": 39,
+    "nombre": "RIO GRANDE"
+  },
+  {
+    "numero_municipio": 40,
+    "nombre": "SAIN ALTO"
+  },
+  {
+    "numero_municipio": 58,
+    "nombre": "SANTA MARIA DE LA PAZ"
+  },
+  {
+    "numero_municipio": 42,
+    "nombre": "SOMBRERETE"
+  },
+  {
+    "numero_municipio": 43,
+    "nombre": "SUSTICACAN"
+  },
+  {
+    "numero_municipio": 44,
+    "nombre": "TABASCO"
+  },
+  {
+    "numero_municipio": 45,
+    "nombre": "TEPECHITLAN"
+  },
+  {
+    "numero_municipio": 46,
+    "nombre": "TEPETONGO"
+  },
+  {
+    "numero_municipio": 47,
+    "nombre": "TEUL DE GONZALEZ ORTEGA"
+  },
+  {
+    "numero_municipio": 48,
+    "nombre": "TLALTENANGO DE SANCHEZ ROMAN"
+  },
+  {
+    "numero_municipio": 57,
+    "nombre": "TRANCOSO"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "TRINIDAD GARCIA DE LA CADENA"
+  },
+  {
+    "numero_municipio": 49,
+    "nombre": "VALPARAISO"
+  },
+  {
+    "numero_municipio": 50,
+    "nombre": "VETAGRANDE"
+  },
+  {
+    "numero_municipio": 51,
+    "nombre": "VILLA DE COS"
+  },
+  {
+    "numero_municipio": 52,
+    "nombre": "VILLA GARCIA"
+  },
+  {
+    "numero_municipio": 53,
+    "nombre": "VILLA GONZALEZ ORTEGA"
+  },
+  {
+    "numero_municipio": 54,
+    "nombre": "VILLA HIDALGO"
+  },
+  {
+    "numero_municipio": 55,
+    "nombre": "VILLANUEVA"
+  },
+  {
+    "numero_municipio": 56,
+    "nombre": "ZACATECAS"
+  }
+]

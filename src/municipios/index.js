@@ -1,11 +1,12 @@
 const Promise = require('bluebird')
-const entidades = require('../entidades')
+const entidades = require('./entidades')
 
 const htmlFromHttpRequest = require('./htmlFromHttpRequest')
 const fs = require('fs-extra')
 const path = require('path')
 const { DateTime } = require('luxon')
 const $ = require('cheerio')
+const latinize = require('latinize')
 
 /**
  *
@@ -38,6 +39,7 @@ async function main() {
   const resultado = await Promise.map(
     entidades,
     async (entidad) => {
+      console.log('Checando estado', entidad.nombre)
       const comboHtmlAxiosConfig = {
         url: 'http://www.snim.rami.gob.mx/combos.php',
         method: 'POST',
@@ -52,15 +54,29 @@ async function main() {
       const $comboHtml = $.load(comboHtml)
 
       const ciudades = []
+      const ciudadesFaltantes = []
 
       $comboHtml('option').each(function () {
+        const estadosJson = require(`./json-from-db/estado-${entidad.numero}.json`)
         const $option = $(this)
         const nombre = $option.text().trim().replace(/\s\s+/g, '')
         const id = parseInt($option.attr('value').trim(), 10)
-        ciudades.push({ nombre, id })
-      })
+        const nombreFormatted = latinize(nombre.toUpperCase())
+        const estadoJson = estadosJson.find((e) => e.nombre === nombreFormatted)
 
-      console.log(ciudades)
+        if (!estadoJson) {
+          ciudadesFaltantes.push({
+            nombre,
+            idInafed: id,
+            entidad: entidad.nombre,
+            idEntidad: entidad.numero,
+            nombreFormatted,
+          })
+          return
+        }
+
+        ciudades.push({ nombre, id, nombreFormatted, idFromDb: estadoJson.numero_municipio })
+      })
 
       const ciudadesResultado = await Promise.mapSeries(ciudades, async (ciudad) => {
         const params = new URLSearchParams()
@@ -142,54 +158,54 @@ async function main() {
         }
 
         const sql = `
-insert into presidencia_municipal_simplificado(
-  nombre,
-  puesto,
-  img_url,
-  periodo,
-  link,
-  municipio_id,
-  estado_id
-) VALUES (
-  '${presidenciaMunicipal}',
-  'Presidente municipal',
-  'https://via.placeholder.com/50',
-  '[${periodo})'::daterange,
-  ${link},
-  ${ciudad.id},
-  ${entidad.numero}
-) ON CONFLICT (
-  nombre_formatted, 
-  puesto
-)
-DO UPDATE SET img_url = EXCLUDED.img_url;
-        `
+      insert into presidencia_municipal_simplificado(
+        nombre,
+        puesto,
+        img_url,
+        periodo,
+        link,
+        municipio_id,
+        estado_id
+      ) VALUES (
+        '${presidenciaMunicipal}',
+        'Presidente municipal',
+        'https://via.placeholder.com/50',
+        '[${periodo})'::daterange,
+        ${link},
+        ${ciudad.idFromDb},
+        ${entidad.numero}
+      ) ON CONFLICT (
+        nombre_formatted,
+        puesto
+      )
+      DO UPDATE SET img_url = EXCLUDED.img_url;
+              `
 
         const regidoresSql = regidores
           .map((regidor) => {
             return `
-insert into presidencia_municipal_simplificado(
-  nombre,
-  puesto,
-  img_url,
-  periodo,
-  link,
-  municipio_id,
-  estado_id
-) VALUES (
-  '${regidor}',
-  'Regidores',
-  'https://via.placeholder.com/50',
-  '[${periodo})'::daterange,
-  ${link},
-  ${ciudad.id},
-  ${entidad.numero}
-) ON CONFLICT (
-  nombre_formatted, 
-  puesto
-)
-DO UPDATE SET img_url = EXCLUDED.img_url;
-        `
+      insert into presidencia_municipal_simplificado(
+        nombre,
+        puesto,
+        img_url,
+        periodo,
+        link,
+        municipio_id,
+        estado_id
+      ) VALUES (
+        '${regidor}',
+        'Regidores',
+        'https://via.placeholder.com/50',
+        '[${periodo})'::daterange,
+        ${link},
+        ${ciudad.idFromDb},
+        ${entidad.numero}
+      ) ON CONFLICT (
+        nombre_formatted,
+        puesto
+      )
+      DO UPDATE SET img_url = EXCLUDED.img_url;
+              `
           })
           .join('\n')
 
@@ -214,22 +230,27 @@ DO UPDATE SET img_url = EXCLUDED.img_url;
         })
         .join('')
       const finalFile = `exports.seed = async function (knex) {
-      await knex('presidencia_municipal_simplificado').where('estado_id', ${entidad.numero}).del()
-      await knex.schema.raw(\`
-        ${sql}
-        \`)
-      }
-      `
+            await knex('presidencia_municipal_simplificado').where('estado_id', ${entidad.numero}).del()
+            await knex.schema.raw(\`
+              ${sql}
+              \`)
+            }
+            `
 
       await fs.writeFile(
         path.join(__dirname, `presidencias-municipales-${entidad.nombre}.js.txt`),
         finalFile,
       )
 
+      if (ciudadesFaltantes.length > 0) {
+        console.log('\n\n\nCiudades faltantes:\n', ciudadesFaltantes)
+      }
+
       return `Writed sql file for ${entidad.nombre}`
     },
     { concurrency: 10 },
   )
+
   console.log(resultado)
 }
 

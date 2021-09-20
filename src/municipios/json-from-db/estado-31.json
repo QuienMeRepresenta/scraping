@@ -1,0 +1,426 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "ABALA"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "ACANCEH"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "AKIL"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "BACA"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "BOKOBA"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "BUCTZOTZ"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "CACALCHEN"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "CALOTMUL"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "CANSAHCAB"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "CANTAMAYEC"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "CELESTUN"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "CENOTILLO"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "CHACSINKIN"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "CHANKOM"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "CHAPAB"
+  },
+  {
+    "numero_municipio": 19,
+    "nombre": "CHEMAX"
+  },
+  {
+    "numero_municipio": 21,
+    "nombre": "CHICHIMILA"
+  },
+  {
+    "numero_municipio": 20,
+    "nombre": "CHICXULUB PUEBLO"
+  },
+  {
+    "numero_municipio": 22,
+    "nombre": "CHIKINDZONOT"
+  },
+  {
+    "numero_municipio": 23,
+    "nombre": "CHOCHOLA"
+  },
+  {
+    "numero_municipio": 24,
+    "nombre": "CHUMAYEL"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "CONKAL"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "CUNCUNUL"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "CUZAMA"
+  },
+  {
+    "numero_municipio": 25,
+    "nombre": "DZAN"
+  },
+  {
+    "numero_municipio": 26,
+    "nombre": "DZEMUL"
+  },
+  {
+    "numero_municipio": 27,
+    "nombre": "DZIDZANTUN"
+  },
+  {
+    "numero_municipio": 28,
+    "nombre": "DZILAM DE BRAVO"
+  },
+  {
+    "numero_municipio": 29,
+    "nombre": "DZILAM GONZALEZ"
+  },
+  {
+    "numero_municipio": 30,
+    "nombre": "DZITAS"
+  },
+  {
+    "numero_municipio": 31,
+    "nombre": "DZONCAUICH"
+  },
+  {
+    "numero_municipio": 32,
+    "nombre": "ESPITA"
+  },
+  {
+    "numero_municipio": 33,
+    "nombre": "HALACHO"
+  },
+  {
+    "numero_municipio": 34,
+    "nombre": "HOCABA"
+  },
+  {
+    "numero_municipio": 35,
+    "nombre": "HOCTUN"
+  },
+  {
+    "numero_municipio": 36,
+    "nombre": "HOMUN"
+  },
+  {
+    "numero_municipio": 37,
+    "nombre": "HUHI"
+  },
+  {
+    "numero_municipio": 38,
+    "nombre": "HUNUCMA"
+  },
+  {
+    "numero_municipio": 39,
+    "nombre": "IXIL"
+  },
+  {
+    "numero_municipio": 40,
+    "nombre": "IZAMAL"
+  },
+  {
+    "numero_municipio": 41,
+    "nombre": "KANASIN"
+  },
+  {
+    "numero_municipio": 42,
+    "nombre": "KANTUNIL"
+  },
+  {
+    "numero_municipio": 43,
+    "nombre": "KAUA"
+  },
+  {
+    "numero_municipio": 44,
+    "nombre": "KINCHIL"
+  },
+  {
+    "numero_municipio": 45,
+    "nombre": "KOPOMA"
+  },
+  {
+    "numero_municipio": 46,
+    "nombre": "MAMA"
+  },
+  {
+    "numero_municipio": 47,
+    "nombre": "MANI"
+  },
+  {
+    "numero_municipio": 48,
+    "nombre": "MAXCANU"
+  },
+  {
+    "numero_municipio": 49,
+    "nombre": "MAYAPAN"
+  },
+  {
+    "numero_municipio": 50,
+    "nombre": "MERIDA"
+  },
+  {
+    "numero_municipio": 51,
+    "nombre": "MOCOCHA"
+  },
+  {
+    "numero_municipio": 52,
+    "nombre": "MOTUL"
+  },
+  {
+    "numero_municipio": 53,
+    "nombre": "MUNA"
+  },
+  {
+    "numero_municipio": 54,
+    "nombre": "MUXUPIP"
+  },
+  {
+    "numero_municipio": 55,
+    "nombre": "OPICHEN"
+  },
+  {
+    "numero_municipio": 56,
+    "nombre": "OXKUTZCAB"
+  },
+  {
+    "numero_municipio": 57,
+    "nombre": "PANABA"
+  },
+  {
+    "numero_municipio": 58,
+    "nombre": "PETO"
+  },
+  {
+    "numero_municipio": 59,
+    "nombre": "PROGRESO"
+  },
+  {
+    "numero_municipio": 60,
+    "nombre": "QUINTANA ROO"
+  },
+  {
+    "numero_municipio": 61,
+    "nombre": "RIO LAGARTOS"
+  },
+  {
+    "numero_municipio": 62,
+    "nombre": "SACALUM"
+  },
+  {
+    "numero_municipio": 63,
+    "nombre": "SAMAHIL"
+  },
+  {
+    "numero_municipio": 64,
+    "nombre": "SANAHCAT"
+  },
+  {
+    "numero_municipio": 65,
+    "nombre": "SAN FELIPE"
+  },
+  {
+    "numero_municipio": 66,
+    "nombre": "SANTA ELENA"
+  },
+  {
+    "numero_municipio": 67,
+    "nombre": "SEYE"
+  },
+  {
+    "numero_municipio": 68,
+    "nombre": "SINANCHE"
+  },
+  {
+    "numero_municipio": 69,
+    "nombre": "SOTUTA"
+  },
+  {
+    "numero_municipio": 70,
+    "nombre": "SUCILA"
+  },
+  {
+    "numero_municipio": 71,
+    "nombre": "SUDZAL"
+  },
+  {
+    "numero_municipio": 72,
+    "nombre": "SUMA"
+  },
+  {
+    "numero_municipio": 73,
+    "nombre": "TAHDZIU"
+  },
+  {
+    "numero_municipio": 74,
+    "nombre": "TAHMEK"
+  },
+  {
+    "numero_municipio": 75,
+    "nombre": "TEABO"
+  },
+  {
+    "numero_municipio": 76,
+    "nombre": "TECOH"
+  },
+  {
+    "numero_municipio": 77,
+    "nombre": "TEKAL DE VENEGAS"
+  },
+  {
+    "numero_municipio": 78,
+    "nombre": "TEKANTO"
+  },
+  {
+    "numero_municipio": 79,
+    "nombre": "TEKAX"
+  },
+  {
+    "numero_municipio": 80,
+    "nombre": "TEKIT"
+  },
+  {
+    "numero_municipio": 81,
+    "nombre": "TEKOM"
+  },
+  {
+    "numero_municipio": 82,
+    "nombre": "TELCHAC PUEBLO"
+  },
+  {
+    "numero_municipio": 83,
+    "nombre": "TELCHAC PUERTO"
+  },
+  {
+    "numero_municipio": 84,
+    "nombre": "TEMAX"
+  },
+  {
+    "numero_municipio": 85,
+    "nombre": "TEMOZON"
+  },
+  {
+    "numero_municipio": 86,
+    "nombre": "TEPAKAN"
+  },
+  {
+    "numero_municipio": 87,
+    "nombre": "TETIZ"
+  },
+  {
+    "numero_municipio": 88,
+    "nombre": "TEYA"
+  },
+  {
+    "numero_municipio": 89,
+    "nombre": "TICUL"
+  },
+  {
+    "numero_municipio": 90,
+    "nombre": "TIMUCUY"
+  },
+  {
+    "numero_municipio": 91,
+    "nombre": "TINUM"
+  },
+  {
+    "numero_municipio": 92,
+    "nombre": "TIXCACALCUPUL"
+  },
+  {
+    "numero_municipio": 93,
+    "nombre": "TIXKOKOB"
+  },
+  {
+    "numero_municipio": 94,
+    "nombre": "TIXMEHUAC"
+  },
+  {
+    "numero_municipio": 95,
+    "nombre": "TIXPEHUAL"
+  },
+  {
+    "numero_municipio": 96,
+    "nombre": "TIZIMIN"
+  },
+  {
+    "numero_municipio": 97,
+    "nombre": "TUNKAS"
+  },
+  {
+    "numero_municipio": 98,
+    "nombre": "TZUCACAB"
+  },
+  {
+    "numero_municipio": 99,
+    "nombre": "UAYMA"
+  },
+  {
+    "numero_municipio": 100,
+    "nombre": "UCU"
+  },
+  {
+    "numero_municipio": 101,
+    "nombre": "UMAN"
+  },
+  {
+    "numero_municipio": 102,
+    "nombre": "VALLADOLID"
+  },
+  {
+    "numero_municipio": 103,
+    "nombre": "XOCCHEL"
+  },
+  {
+    "numero_municipio": 104,
+    "nombre": "YAXCABA"
+  },
+  {
+    "numero_municipio": 105,
+    "nombre": "YAXKUKUL"
+  },
+  {
+    "numero_municipio": 106,
+    "nombre": "YOBAIN"
+  }
+]

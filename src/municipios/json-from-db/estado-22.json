@@ -1,0 +1,74 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "AMEALCO DE BONFIL"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "ARROYO SECO"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "CADEREYTA DE MONTES"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "COLON"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "CORREGIDORA"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "EL MARQUES"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "EZEQUIEL MONTES"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "HUIMILPAN"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "JALPAN DE SERRA"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "LANDA DE MATAMOROS"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "PEDRO ESCOBEDO"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "PENAMILLER"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "PINAL DE AMOLES"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "QUERETARO"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "SAN JOAQUIN"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "SAN JUAN DEL RIO"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "TEQUISQUIAPAN"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "TOLIMAN"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "AHOME"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "ANGOSTURA"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "BADIRAGUATO"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "CHOIX"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "CONCORDIA"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "COSALA"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "CULIACAN"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "EL FUERTE"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "ELOTA"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "ESCUINAPA"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "GUASAVE"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "MAZATLAN"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "MOCORITO"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "NAVOLATO"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "ROSARIO"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "SALVADOR ALVARADO"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "SAN IGNACIO"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "SINALOA"
+  }
+]

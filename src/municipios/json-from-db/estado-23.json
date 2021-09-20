@@ -1,0 +1,46 @@
+[
+  {
+    "numero_municipio": 10,
+    "nombre": "BACALAR"
+  },
+  {
+    "numero_municipio": 1,
+    "nombre": "BENITO JUAREZ"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "COZUMEL"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "FELIPE CARRILLO PUERTO"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "ISLA MUJERES"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "JOSE MARIA MORELOS"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "LAZARO CARDENAS"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "OTHON P. BLANCO"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "PUERTO MORELOS"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "SOLIDARIDAD"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "TULUM"
+  }
+]

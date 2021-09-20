@@ -1,0 +1,242 @@
+[
+  {
+    "numero_municipio": 22,
+    "nombre": "ACUAMANALA DE MIGUEL HIDALGO"
+  },
+  {
+    "numero_municipio": 1,
+    "nombre": "AMAXAC DE GUERRERO"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "APETATITLAN DE ANTONIO CARVAJAL"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "APIZACO"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "ATLANGATEPEC"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "ATLTZAYANCA"
+  },
+  {
+    "numero_municipio": 60,
+    "nombre": "BENITO JUAREZ"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "CALPULALPAN"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "CHIAUTEMPAN"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "CONTLA DE JUAN CUAMATZI"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "CUAPIAXTLA"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "CUAXOMULCO"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "EL CARMEN TEQUEXQUITLA"
+  },
+  {
+    "numero_municipio": 54,
+    "nombre": "EMILIANO ZAPATA"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "ESPANITA"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "HUAMANTLA"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "HUEYOTLIPAN"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "IXTACUIXTLA DE MARIANO MATAMOROS"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "IXTENCO"
+  },
+  {
+    "numero_municipio": 52,
+    "nombre": "LA MAGDALENA TLALTELULCO"
+  },
+  {
+    "numero_municipio": 55,
+    "nombre": "LAZARO CARDENAS"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "MAZATECOCHCO DE JOSE MARIA MORELOS"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "MUNOZ DE DOMINGO ARENAS"
+  },
+  {
+    "numero_municipio": 21,
+    "nombre": "NANACAMILPA DE MARIANO ARISTA"
+  },
+  {
+    "numero_municipio": 23,
+    "nombre": "NATIVITAS"
+  },
+  {
+    "numero_municipio": 24,
+    "nombre": "PANOTLA"
+  },
+  {
+    "numero_municipio": 41,
+    "nombre": "PAPALOTLA DE XICOHTENCATL"
+  },
+  {
+    "numero_municipio": 20,
+    "nombre": "SANCTORUM DE LAZARO CARDENAS"
+  },
+  {
+    "numero_municipio": 53,
+    "nombre": "SAN DAMIAN TEXOLOC"
+  },
+  {
+    "numero_municipio": 51,
+    "nombre": "SAN FRANCISCO TETLANOHCAN"
+  },
+  {
+    "numero_municipio": 56,
+    "nombre": "SAN JERONIMO ZACUALPAN"
+  },
+  {
+    "numero_municipio": 50,
+    "nombre": "SAN JOSE TEACALCO"
+  },
+  {
+    "numero_municipio": 47,
+    "nombre": "SAN JUAN HUACTZINCO"
+  },
+  {
+    "numero_municipio": 59,
+    "nombre": "SAN LORENZO AXOCOMANITLA"
+  },
+  {
+    "numero_municipio": 57,
+    "nombre": "SAN LUCAS TECOPILCO"
+  },
+  {
+    "numero_municipio": 25,
+    "nombre": "SAN PABLO DEL MONTE"
+  },
+  {
+    "numero_municipio": 58,
+    "nombre": "SANTA ANA NOPALUCAN"
+  },
+  {
+    "numero_municipio": 45,
+    "nombre": "SANTA APOLONIA TEACALCO"
+  },
+  {
+    "numero_municipio": 48,
+    "nombre": "SANTA CATARINA AYOMETLA"
+  },
+  {
+    "numero_municipio": 46,
+    "nombre": "SANTA CRUZ QUILEHTLA"
+  },
+  {
+    "numero_municipio": 26,
+    "nombre": "SANTA CRUZ TLAXCALA"
+  },
+  {
+    "numero_municipio": 49,
+    "nombre": "SANTA ISABEL XILOXOXTLA"
+  },
+  {
+    "numero_municipio": 27,
+    "nombre": "TENANCINGO"
+  },
+  {
+    "numero_municipio": 28,
+    "nombre": "TEOLOCHOLCO"
+  },
+  {
+    "numero_municipio": 19,
+    "nombre": "TEPETITLA DE LARDIZABAL"
+  },
+  {
+    "numero_municipio": 29,
+    "nombre": "TEPEYANCO"
+  },
+  {
+    "numero_municipio": 30,
+    "nombre": "TERRENATE"
+  },
+  {
+    "numero_municipio": 31,
+    "nombre": "TETLA DE LA SOLIDARIDAD"
+  },
+  {
+    "numero_municipio": 32,
+    "nombre": "TETLATLAHUCA"
+  },
+  {
+    "numero_municipio": 33,
+    "nombre": "TLAXCALA"
+  },
+  {
+    "numero_municipio": 34,
+    "nombre": "TLAXCO"
+  },
+  {
+    "numero_municipio": 35,
+    "nombre": "TOCATLAN"
+  },
+  {
+    "numero_municipio": 36,
+    "nombre": "TOTOLAC"
+  },
+  {
+    "numero_municipio": 38,
+    "nombre": "TZOMPANTEPEC"
+  },
+  {
+    "numero_municipio": 39,
+    "nombre": "XALOZTOC"
+  },
+  {
+    "numero_municipio": 40,
+    "nombre": "XALTOCAN"
+  },
+  {
+    "numero_municipio": 42,
+    "nombre": "XICOHTZINCO"
+  },
+  {
+    "numero_municipio": 43,
+    "nombre": "YAUHQUEMEHCAN"
+  },
+  {
+    "numero_municipio": 44,
+    "nombre": "ZACATELCO"
+  },
+  {
+    "numero_municipio": 37,
+    "nombre": "ZILTLALTEPEC DE TRINIDAD SANCHEZ SANTOS"
+  }
+]

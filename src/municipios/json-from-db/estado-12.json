@@ -1,0 +1,326 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "ACAPULCO DE JUAREZ"
+  },
+  {
+    "numero_municipio": 76,
+    "nombre": "ACATEPEC"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "AHUACUOTZINGO"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "AJUCHITLAN DEL PROGRESO"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "ALCOZAUCA DE GUERRERO"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "ALPOYECA"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "APAXTLA"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "ARCELIA"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "ATENANGO DEL RIO"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "ATLAMAJALCINGO DEL MONTE"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "ATLIXTAC"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "ATOYAC DE ALVAREZ"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "AYUTLA DE LOS LIBRES"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "AZOYU"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "BENITO JUAREZ"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "BUENAVISTA DE CUELLAR"
+  },
+  {
+    "numero_municipio": 28,
+    "nombre": "CHILAPA DE ALVAREZ"
+  },
+  {
+    "numero_municipio": 29,
+    "nombre": "CHILPANCINGO DE LOS BRAVO"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "COAHUAYUTLA DE JOSE MARIA IZAZAGA"
+  },
+  {
+    "numero_municipio": 79,
+    "nombre": "COCHOAPA EL GRANDE"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "COCULA"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "COPALA"
+  },
+  {
+    "numero_municipio": 19,
+    "nombre": "COPALILLO"
+  },
+  {
+    "numero_municipio": 20,
+    "nombre": "COPANATOYAC"
+  },
+  {
+    "numero_municipio": 21,
+    "nombre": "COYUCA DE BENITEZ"
+  },
+  {
+    "numero_municipio": 22,
+    "nombre": "COYUCA DE CATALAN"
+  },
+  {
+    "numero_municipio": 23,
+    "nombre": "CUAJINICUILAPA"
+  },
+  {
+    "numero_municipio": 24,
+    "nombre": "CUALAC"
+  },
+  {
+    "numero_municipio": 25,
+    "nombre": "CUAUTEPEC"
+  },
+  {
+    "numero_municipio": 26,
+    "nombre": "CUETZALA DEL PROGRESO"
+  },
+  {
+    "numero_municipio": 27,
+    "nombre": "CUTZAMALA DE PINZON"
+  },
+  {
+    "numero_municipio": 30,
+    "nombre": "EDUARDO NERI"
+  },
+  {
+    "numero_municipio": 31,
+    "nombre": "FLORENCIO VILLARREAL"
+  },
+  {
+    "numero_municipio": 32,
+    "nombre": "GENERAL CANUTO A. NERI"
+  },
+  {
+    "numero_municipio": 33,
+    "nombre": "GENERAL HELIODORO CASTILLO"
+  },
+  {
+    "numero_municipio": 34,
+    "nombre": "HUAMUXTITLAN"
+  },
+  {
+    "numero_municipio": 35,
+    "nombre": "HUITZUCO DE LOS FIGUEROA"
+  },
+  {
+    "numero_municipio": 36,
+    "nombre": "IGUALA DE LA INDEPENDENCIA"
+  },
+  {
+    "numero_municipio": 37,
+    "nombre": "IGUALAPA"
+  },
+  {
+    "numero_municipio": 78,
+    "nombre": "ILIATENCO"
+  },
+  {
+    "numero_municipio": 38,
+    "nombre": "IXCATEOPAN DE CUAUHTEMOC"
+  },
+  {
+    "numero_municipio": 77,
+    "nombre": "JOSE JOAQUIN DE HERRERA"
+  },
+  {
+    "numero_municipio": 40,
+    "nombre": "JUAN R. ESCUDERO"
+  },
+  {
+    "numero_municipio": 81,
+    "nombre": "JUCHITAN"
+  },
+  {
+    "numero_municipio": 69,
+    "nombre": "LA UNION DE ISIDORO MONTES DE OCA"
+  },
+  {
+    "numero_municipio": 41,
+    "nombre": "LEONARDO BRAVO"
+  },
+  {
+    "numero_municipio": 42,
+    "nombre": "MALINALTEPEC"
+  },
+  {
+    "numero_municipio": 80,
+    "nombre": "MARQUELIA"
+  },
+  {
+    "numero_municipio": 43,
+    "nombre": "MARTIR DE CUILAPAN"
+  },
+  {
+    "numero_municipio": 44,
+    "nombre": "METLATONOC"
+  },
+  {
+    "numero_municipio": 45,
+    "nombre": "MOCHITLAN"
+  },
+  {
+    "numero_municipio": 46,
+    "nombre": "OLINALA"
+  },
+  {
+    "numero_municipio": 47,
+    "nombre": "OMETEPEC"
+  },
+  {
+    "numero_municipio": 48,
+    "nombre": "PEDRO ASCENCIO ALQUISIRAS"
+  },
+  {
+    "numero_municipio": 49,
+    "nombre": "PETATLAN"
+  },
+  {
+    "numero_municipio": 50,
+    "nombre": "PILCAYA"
+  },
+  {
+    "numero_municipio": 51,
+    "nombre": "PUNGARABATO"
+  },
+  {
+    "numero_municipio": 52,
+    "nombre": "QUECHULTENANGO"
+  },
+  {
+    "numero_municipio": 53,
+    "nombre": "SAN LUIS ACATLAN"
+  },
+  {
+    "numero_municipio": 54,
+    "nombre": "SAN MARCOS"
+  },
+  {
+    "numero_municipio": 55,
+    "nombre": "SAN MIGUEL TOTOLAPAN"
+  },
+  {
+    "numero_municipio": 56,
+    "nombre": "TAXCO DE ALARCON"
+  },
+  {
+    "numero_municipio": 57,
+    "nombre": "TECOANAPA"
+  },
+  {
+    "numero_municipio": 58,
+    "nombre": "TECPAN DE GALEANA"
+  },
+  {
+    "numero_municipio": 59,
+    "nombre": "TELOLOAPAN"
+  },
+  {
+    "numero_municipio": 60,
+    "nombre": "TEPECOACUILCO DE TRUJANO"
+  },
+  {
+    "numero_municipio": 61,
+    "nombre": "TETIPAC"
+  },
+  {
+    "numero_municipio": 62,
+    "nombre": "TIXTLA DE GUERRERO"
+  },
+  {
+    "numero_municipio": 63,
+    "nombre": "TLACOACHISTLAHUACA"
+  },
+  {
+    "numero_municipio": 64,
+    "nombre": "TLACOAPA"
+  },
+  {
+    "numero_municipio": 65,
+    "nombre": "TLALCHAPA"
+  },
+  {
+    "numero_municipio": 66,
+    "nombre": "TLALIXTAQUILLA DE MALDONADO"
+  },
+  {
+    "numero_municipio": 67,
+    "nombre": "TLAPA DE COMONFORT"
+  },
+  {
+    "numero_municipio": 68,
+    "nombre": "TLAPEHUALA"
+  },
+  {
+    "numero_municipio": 70,
+    "nombre": "XALPATLAHUAC"
+  },
+  {
+    "numero_municipio": 71,
+    "nombre": "XOCHIHUEHUETLAN"
+  },
+  {
+    "numero_municipio": 72,
+    "nombre": "XOCHISTLAHUACA"
+  },
+  {
+    "numero_municipio": 73,
+    "nombre": "ZAPOTITLAN TABLAS"
+  },
+  {
+    "numero_municipio": 39,
+    "nombre": "ZIHUATANEJO DE AZUETA"
+  },
+  {
+    "numero_municipio": 74,
+    "nombre": "ZIRANDARO"
+  },
+  {
+    "numero_municipio": 75,
+    "nombre": "ZITLALA"
+  }
+]

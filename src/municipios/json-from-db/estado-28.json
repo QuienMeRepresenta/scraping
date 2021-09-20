@@ -1,0 +1,174 @@
+[
+  {
+    "numero_municipio": 1,
+    "nombre": "ABASOLO"
+  },
+  {
+    "numero_municipio": 2,
+    "nombre": "ALDAMA"
+  },
+  {
+    "numero_municipio": 3,
+    "nombre": "ALTAMIRA"
+  },
+  {
+    "numero_municipio": 4,
+    "nombre": "ANTIGUO MORELOS"
+  },
+  {
+    "numero_municipio": 5,
+    "nombre": "BURGOS"
+  },
+  {
+    "numero_municipio": 6,
+    "nombre": "BUSTAMANTE"
+  },
+  {
+    "numero_municipio": 7,
+    "nombre": "CAMARGO"
+  },
+  {
+    "numero_municipio": 8,
+    "nombre": "CASAS"
+  },
+  {
+    "numero_municipio": 9,
+    "nombre": "CIUDAD MADERO"
+  },
+  {
+    "numero_municipio": 10,
+    "nombre": "CRUILLAS"
+  },
+  {
+    "numero_municipio": 21,
+    "nombre": "EL MANTE"
+  },
+  {
+    "numero_municipio": 11,
+    "nombre": "GOMEZ FARIAS"
+  },
+  {
+    "numero_municipio": 12,
+    "nombre": "GONZALEZ"
+  },
+  {
+    "numero_municipio": 14,
+    "nombre": "GUERRERO"
+  },
+  {
+    "numero_municipio": 15,
+    "nombre": "GUSTAVO DIAZ ORDAZ"
+  },
+  {
+    "numero_municipio": 13,
+    "nombre": "GUEMEZ"
+  },
+  {
+    "numero_municipio": 16,
+    "nombre": "HIDALGO"
+  },
+  {
+    "numero_municipio": 17,
+    "nombre": "JAUMAVE"
+  },
+  {
+    "numero_municipio": 18,
+    "nombre": "JIMENEZ"
+  },
+  {
+    "numero_municipio": 19,
+    "nombre": "LLERA"
+  },
+  {
+    "numero_municipio": 20,
+    "nombre": "MAINERO"
+  },
+  {
+    "numero_municipio": 22,
+    "nombre": "MATAMOROS"
+  },
+  {
+    "numero_municipio": 23,
+    "nombre": "MENDEZ"
+  },
+  {
+    "numero_municipio": 24,
+    "nombre": "MIER"
+  },
+  {
+    "numero_municipio": 25,
+    "nombre": "MIGUEL ALEMAN"
+  },
+  {
+    "numero_municipio": 26,
+    "nombre": "MIQUIHUANA"
+  },
+  {
+    "numero_municipio": 27,
+    "nombre": "NUEVO LAREDO"
+  },
+  {
+    "numero_municipio": 28,
+    "nombre": "NUEVO MORELOS"
+  },
+  {
+    "numero_municipio": 29,
+    "nombre": "OCAMPO"
+  },
+  {
+    "numero_municipio": 30,
+    "nombre": "PADILLA"
+  },
+  {
+    "numero_municipio": 31,
+    "nombre": "PALMILLAS"
+  },
+  {
+    "numero_municipio": 32,
+    "nombre": "REYNOSA"
+  },
+  {
+    "numero_municipio": 33,
+    "nombre": "RIO BRAVO"
+  },
+  {
+    "numero_municipio": 34,
+    "nombre": "SAN CARLOS"
+  },
+  {
+    "numero_municipio": 35,
+    "nombre": "SAN FERNANDO"
+  },
+  {
+    "numero_municipio": 36,
+    "nombre": "SAN NICOLAS"
+  },
+  {
+    "numero_municipio": 37,
+    "nombre": "SOTO LA MARINA"
+  },
+  {
+    "numero_municipio": 38,
+    "nombre": "TAMPICO"
+  },
+  {
+    "numero_municipio": 39,
+    "nombre": "TULA"
+  },
+  {
+    "numero_municipio": 40,
+    "nombre": "VALLE HERMOSO"
+  },
+  {
+    "numero_municipio": 41,
+    "nombre": "VICTORIA"
+  },
+  {
+    "numero_municipio": 42,
+    "nombre": "VILLAGRAN"
+  },
+  {
+    "numero_municipio": 43,
+    "nombre": "XICOTENCATL"
+  }
+]
