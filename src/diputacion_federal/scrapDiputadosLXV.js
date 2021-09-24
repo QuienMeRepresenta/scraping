@@ -1,6 +1,6 @@
 const Promise = require('bluebird')
 const cheerio = require('cheerio')
-const entidades = require('../entidades')
+const entidades = require('./entidades')
 const htmlFor = require('../htmlFor')
 
 async function scrapDiputados(baseUrl) {
@@ -8,9 +8,8 @@ async function scrapDiputados(baseUrl) {
 
   const linksPorEntidad = entidades.map((e) => {
     return {
-      link: `${baseUrl}/${legislatura}_leg/listado_diputados_gpnp.php?tipot=Edo&edot=${e.numero}`,
-      nombre: e.nombre,
-      numero: e.numero,
+      link: `${baseUrl}/${legislatura}_leg/listado_diputados_gpnp.php?tipot=Edo&edot=${e.idPagina}`,
+      ...e,
     }
   })
 
@@ -18,9 +17,9 @@ async function scrapDiputados(baseUrl) {
 
   //Saca todos los links de diputados por Estado
   await Promise.mapSeries(linksPorEntidad, async (linkPorEntidad) => {
-    const { link, nombre, numero } = linkPorEntidad
+    const { link, nombre, numero, idPagina } = linkPorEntidad
 
-    const filePath = `${__dirname}/html/por_estado/${numero}.html`
+    const filePath = `${__dirname}/html/por_estado/${idPagina}.html`
     const porEstadoHtml = await htmlFor(link, filePath, 'latin1')
 
     const $porEstadoHtml = cheerio.load(porEstadoHtml)
