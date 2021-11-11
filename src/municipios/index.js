@@ -95,6 +95,8 @@ async function main() {
           axiosConfig,
           path.join(`${__dirname}`, 'html', entidad.nombre),
           `${ciudad.nombre}-${ciudad.id}.html`,
+          'utf8',
+          true,
         )
 
         const $ciudad = $.load(html)
