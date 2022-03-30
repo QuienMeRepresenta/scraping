@@ -12,52 +12,40 @@ const Promise = require('bluebird')
 async function scrapDiputados(baseUrl, $) {
   const diputados = {}
 
-  const imgElement = $(
-    'div.elementor-widget-container div.elementor-image img.attachment-medium.size-medium',
-  )
+  const diputadoBoxes = $('#cr-diputados-tabs-container .cr-diputados-posts .cr-diputados-post-box')
 
-  imgElement.each(function () {
-    const src = $(this).attr('src')
-    if (src.endsWith('logosn-300x118.png') || src.endsWith('logosnwhite-300x118.png')) {
-      return
-    }
+  diputadoBoxes.each(function () {
+    let imgUrlPath = $(this).find('.cr-diputados-post-box__col-img img').attr('src')
+    imgUrlPath = imgUrlPath.replace('-200x300', '') // Get image in original size
 
-    const $elemtorRowElement = $(this)
-      .parent()
-      .parent()
-      .parent()
-      .parent()
-      .parent()
-      .parent()
-      .parent()
-      .parent()
+    const $diputadoAnchor = $(this).find(
+      '.cr-diputados-post-box__col-contents h2.cr-diputados-post-box__title a',
+    )
+    const nombre = $diputadoAnchor.text()
+    const link = $diputadoAnchor.attr('href')
 
-    const nombre = $elemtorRowElement.find('div > h2').text()
-    const distrito = $elemtorRowElement
-      .find('div > ul > li:nth-child(1) > span.elementor-icon-list-text')
+    const distrito = $(this)
+      .find(
+        '.cr-diputados-post-box__col-contents > ul > li:nth-child(1) > .cr-diputados-post-box__meta-text',
+      )
       .text()
 
     if (distrito === 'Representación Proporcional') {
       //TODO: Plurinominales
       return
     }
+    if (distrito === '* Diputada Suplente en funciones de propietaria') {
+      //TODO: Suplentes
+      return
+    }
 
     const numeroDistrito = distrito.split(' ')[1]
-
-    const link = $elemtorRowElement
-      .find('span:contains("Ver más")')
-      .parent()
-      .parent()
-      .find('a.elementor-button-link.elementor-button.elementor-size-sm')
-      .attr('href')
-
-    let url = link.startsWith('/diputado63') ? `${baseUrl}${link}` : link
 
     diputados[nombre] = {
       nombre,
       distrito: parseInt(numeroDistrito, 10),
-      link: url,
-      imgUrl: src,
+      link,
+      imgUrl: `${baseUrl}${imgUrlPath}`,
     }
   })
 
@@ -67,7 +55,7 @@ async function scrapDiputados(baseUrl, $) {
 
     console.log('Subiendo imagen de diputado', diputado.imgUrl)
     const { secure_url } = await cloudinary.uploader.upload(diputado.imgUrl, {
-      folder: `diputacion_local/sinaloa/legislatura_lxiii`,
+      folder: `diputacion_local/sinaloa/legislatura_lxiv`,
       public_id: nombre.toLowerCase().replace(/\s/g, '_'),
       overwrite: false,
     })
